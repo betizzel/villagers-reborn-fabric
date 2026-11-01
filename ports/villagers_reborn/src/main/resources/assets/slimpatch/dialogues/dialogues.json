@@ -364,7 +364,7 @@
       "lines": [
         "Haha! Needed that laugh.",
         "Even warriors need humor.",
-        "Good joke — now back to business.",
+        "Good joke - now back to business.",
         "You’ve got guts and a good sense of humor.",
         "I’ll laugh now, fight later."
       ],
@@ -562,7 +562,7 @@
     },
     "quest_relationship_friend": {
       "lines": [
-        "This village needs stronger bonds. Could you become close friends with one of us — at least 5 hearts?"
+        "This village needs stronger bonds. Could you become close friends with one of us - at least 5 hearts?"
       ]
     },
     "quest_tame_wolf": {

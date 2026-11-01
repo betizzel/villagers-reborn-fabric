@@ -361,7 +361,7 @@
       "lines": [
         "Haha! Precisava dessa risada.",
         "Até guerreiros precisam de humor.",
-        "Boa piada — agora voltando ao trabalho.",
+        "Boa piada - agora voltando ao trabalho.",
         "Você tem coragem e um bom senso de humor.",
         "Vou rir agora, lutar depois."
       ],
@@ -557,7 +557,7 @@
     },
     "quest_relationship_friend": {
       "lines": [
-        "Esta vila precisa de laços mais fortes. Você poderia se tornar amigo íntimo de um de nós — pelo menos 5 corações?"
+        "Esta vila precisa de laços mais fortes. Você poderia se tornar amigo íntimo de um de nós - pelo menos 5 corações?"
       ]
     },
     "quest_tame_wolf": {
