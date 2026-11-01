@@ -1,0 +1,8 @@
+dependencies {
+    modCompileOnly 'com.terraformersmc:modmenu:7.2.2'
+    implementation include('com.electronwill.night-config:core:3.6.7')
+    implementation include('com.electronwill.night-config:toml:3.6.7')
+    modImplementation 'io.github.fabricators_of_create.Porting-Lib:entity:2.3.13+1.20.1'
+}
+
+apply from: 'upstream-skins.gradle'

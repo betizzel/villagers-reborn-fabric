@@ -1,0 +1,532 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Oi!",
+        "Ei!",
+        "Eu vi um sapo hoje!",
+        "Algo fez um barulho engraçado.",
+        "Você acha que golens ficam entediados?"
+      ]
+    },
+    "friendly_player_child": {
+      "lines": [
+        "Oi!",
+        "Ei, olha!",
+        "Eu ouvi algo lá fora!",
+        "Eu fiquei perto da vila.",
+        "Eu lembrei do que você me disse!"
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Isso é legal!",
+        "É divertido conversar com você.",
+        "Gostei disso!",
+        "Soa bem!",
+        "Você é bem legal."
+      ],
+      "fail": [
+        "Não entendi.",
+        "Talvez depois.",
+        "Eu não estava ouvindo.",
+        "O que você disse?",
+        "Estou pensando em sapos."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Haha!",
+        "Foi engraçado!",
+        "Ok, isso foi bobo.",
+        "Conta outra!",
+        "Vou usar essa piada depois."
+      ],
+      "fail": [
+        "Não entendi.",
+        "Essa era a piada?",
+        "Essa foi estranha.",
+        "Perdi a parte engraçada.",
+        "Talvez precise de mais galinhas."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Você está fazendo voz de bravo!",
+        "Essa foi uma cara de mau falsa.",
+        "Você não dá medo.",
+        "Boa tentativa!",
+        "Já ouvi zumbis mais assustadores."
+      ],
+      "fail": [
+        "Isso não foi legal.",
+        "Não diga isso.",
+        "Isso não foi engraçado.",
+        "Não gostei disso.",
+        "Pode parar de ser mau?"
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "shy": {
+      "lines": [
+        "Ah, oi.",
+        "Oi!",
+        "Eu não te vi aí.",
+        "Eu estava apenas pensando.",
+        "Estou tentando não ser estranho."
+      ]
+    },
+    "shy_player_child": {
+      "lines": [
+        "Oi!",
+        "Eu tentei fazer certo.",
+        "Eu tentei fazer sozinho.",
+        "Eu não fui muito longe.",
+        "Eu fui cuidadoso."
+      ]
+    }
+  },
+  "Friendly": {
+    "shy": {
+      "lines": [
+        "Oh... thanks.",
+        "That was nice.",
+        "I like hearing that.",
+        "You’re easy to talk to.",
+        "That helped a little."
+      ],
+      "fail": [
+        "I don’t know what to say.",
+        "Maybe later.",
+        "I got nervous.",
+        "I lost my words.",
+        "I wasn’t ready."
+      ]
+    }
+  },
+  "Joke": {
+    "shy": {
+      "lines": [
+        "Hehe.",
+        "That was funny.",
+        "I liked that one.",
+        "You made me laugh.",
+        "I almost laughed too loud."
+      ],
+      "fail": [
+        "I don’t get it.",
+        "Was that the joke?",
+        "I missed it.",
+        "I think I got nervous.",
+        "Maybe tell it again later."
+      ]
+    }
+  },
+  "Mean": {
+    "shy": {
+      "lines": [
+        "You’re doing a scary voice.",
+        "I know you’re joking.",
+        "That was almost scary.",
+        "You’re not that mean.",
+        "I can tell you’re pretending."
+      ],
+      "fail": [
+        "That wasn’t nice.",
+        "Please don’t say that.",
+        "I don’t like that.",
+        "That made me nervous.",
+        "Can we not do that?"
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "grumpy": {
+      "lines": [
+        "Oi.",
+        "O que agora?",
+        "Eu não estava fazendo nada.",
+        "O sino é muito barulhento.",
+        "Tudo é irritante hoje."
+      ]
+    },
+    "grumpy_player_child": {
+      "lines": [
+        "Oi.",
+        "Eu não toquei nele.",
+        "Já estava assim.",
+        "Eu sei, eu sei.",
+        "Estou bem. Provavelmente."
+      ]
+    }
+  },
+  "Friendly": {
+    "grumpy": {
+      "lines": [
+        "Fine, that was nice.",
+        "That was okay.",
+        "You’re not too annoying.",
+        "I guess that helped.",
+        "Don’t make me say thanks."
+      ],
+      "fail": [
+        "No thanks.",
+        "Not now.",
+        "I’m busy being annoyed.",
+        "That didn’t help.",
+        "Too nice. Suspicious."
+      ]
+    }
+  },
+  "Joke": {
+    "grumpy": {
+      "lines": [
+        "Hmph.",
+        "That was funny. Barely.",
+        "I didn’t laugh.",
+        "Fine, maybe I laughed.",
+        "Don’t tell anyone that worked."
+      ],
+      "fail": [
+        "No.",
+        "Not funny.",
+        "That was weird.",
+        "That joke needs a bed.",
+        "Try again with a better joke."
+      ]
+    }
+  },
+  "Mean": {
+    "grumpy": {
+      "lines": [
+        "Finally, someone gets it.",
+        "That sounded about right.",
+        "Being annoyed is easy.",
+        "That was a good grumble.",
+        "You’re learning."
+      ],
+      "fail": [
+        "That was too much.",
+        "That was just rude.",
+        "You’re doing it wrong.",
+        "Wrong kind of mean.",
+        "Even I’m not that grumpy."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "mean": {
+      "lines": [
+        "O quê?",
+        "Ah, é você.",
+        "Eu estava fazendo algo importante.",
+        "Não fique parado aí com cara estranha.",
+        "Estou ocupado. Provavelmente."
+      ]
+    },
+    "mean_player_child": {
+      "lines": [
+        "Oi.",
+        "Eu não comecei.",
+        "Eles já estavam bravos.",
+        "Eu fui cuidadoso. Na maior parte.",
+        "Ninguém pode provar nada."
+      ]
+    }
+  },
+  "Friendly": {
+    "mean": {
+      "lines": [
+        "Fine, that was nice.",
+        "You’re not the worst.",
+        "That was okay, I guess.",
+        "I’ll allow it.",
+        "Don’t make it weird."
+      ],
+      "fail": [
+        "No thanks.",
+        "Too nice.",
+        "That was boring.",
+        "Try saying something useful.",
+        "I’m not falling for nice words."
+      ]
+    }
+  },
+  "Joke": {
+    "mean": {
+      "lines": [
+        "Heh.",
+        "Okay, that was funny.",
+        "You looked ridiculous saying that.",
+        "That one was actually good.",
+        "I’m laughing with you. Mostly."
+      ],
+      "fail": [
+        "No.",
+        "Bad joke.",
+        "That was not funny.",
+        "That joke gave up halfway.",
+        "I’ve heard better from a slime."
+      ]
+    }
+  },
+  "Mean": {
+    "mean": {
+      "lines": [
+        "Ha! Good one.",
+        "Now that was mean.",
+        "You’re getting better.",
+        "That had some bite.",
+        "Say it like you mean it."
+      ],
+      "fail": [
+        "That was weak.",
+        "Not mean enough.",
+        "That was just rude.",
+        "Wrong kind of mean.",
+        "I could do better."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "brave": {
+      "lines": [
+        "Oi!",
+        "Estou treinando.",
+        "Eu ouvi um barulho e verifiquei.",
+        "Eu não tenho medo de zumbis.",
+        "Bem... de zumbis pequenos."
+      ]
+    },
+    "brave_player_child": {
+      "lines": [
+        "Oi!",
+        "Olha isso!",
+        "Eu resolvi isso.",
+        "Eu quase pareci heroico.",
+        "Eu só corri um pouquinho."
+      ]
+    }
+  },
+  "Friendly": {
+    "brave": {
+      "lines": [
+        "Thanks!",
+        "That helps.",
+        "That sounded brave.",
+        "I feel ready now.",
+        "That was good to hear."
+      ],
+      "fail": [
+        "Not now.",
+        "I’m practicing.",
+        "I missed that.",
+        "Say it like a battle speech.",
+        "I was thinking about swords."
+      ]
+    }
+  },
+  "Joke": {
+    "brave": {
+      "lines": [
+        "Haha!",
+        "That was funny.",
+        "That joke had courage.",
+        "I laughed bravely.",
+        "I’m using that after training."
+      ],
+      "fail": [
+        "I don’t get it.",
+        "Was that the joke?",
+        "That joke ran away.",
+        "It needed more danger.",
+        "Try one with a creeper."
+      ]
+    }
+  },
+  "Mean": {
+    "brave": {
+      "lines": [
+        "Nice try!",
+        "I can handle it.",
+        "That didn’t scare me.",
+        "You sound like a tiny pillager.",
+        "I’m still standing."
+      ],
+      "fail": [
+        "That was too much.",
+        "That wasn’t brave.",
+        "Don’t say that.",
+        "Mean isn’t the same as strong.",
+        "That was just rude."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "greedy": {
+      "lines": [
+        "Oi!",
+        "Tem algo brilhante aí?",
+        "Estou verificando meu tesouro.",
+        "Encontrei algo valioso. Talvez.",
+        "Estou fazendo negócios muito importantes."
+      ]
+    },
+    "greedy_player_child": {
+      "lines": [
+        "Oi!",
+        "Eu guardei o bom.",
+        "Eu não troquei ele.",
+        "Eu contei dessa vez.",
+        "Ninguém tocou no meu tesouro."
+      ]
+    }
+  },
+  "Friendly": {
+    "greedy": {
+      "lines": [
+        "That was nice.",
+        "That sounds valuable.",
+        "I’ll remember that.",
+        "Good words. Good deal.",
+        "You can keep talking."
+      ],
+      "fail": [
+        "No thanks.",
+        "Is that the whole deal?",
+        "That was not very shiny.",
+        "I expected more.",
+        "Come back with better words."
+      ]
+    }
+  },
+  "Joke": {
+    "greedy": {
+      "lines": [
+        "Haha!",
+        "That was funny.",
+        "That joke is worth something.",
+        "I’d trade a pebble for that.",
+        "Okay, that was a good deal."
+      ],
+      "fail": [
+        "No.",
+        "Bad trade.",
+        "That joke lost value.",
+        "Not worth an emerald.",
+        "I want a refund."
+      ]
+    }
+  },
+  "Mean": {
+    "greedy": {
+      "lines": [
+        "That was clever.",
+        "Good bargain voice.",
+        "You sound like a trader.",
+        "That had some value.",
+        "I respect the hustle."
+      ],
+      "fail": [
+        "Bad deal.",
+        "Too mean.",
+        "No trade.",
+        "That cost too much.",
+        "I don’t like that price."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "wise": {
+      "lines": [
+        "Oi!",
+        "Eu estava pensando.",
+        "O mundo está estranho hoje.",
+        "Eu notei algo mais cedo.",
+        "Você acha que golens ficam entediados?"
+      ]
+    },
+    "wise_player_child": {
+      "lines": [
+        "Oi!",
+        "Eu pensei sobre isso primeiro.",
+        "Eu fiz uma escolha cuidadosa.",
+        "Eu esperei antes de tocar.",
+        "Acho que entendi agora."
+      ]
+    }
+  },
+  "Friendly": {
+    "wise": {
+      "lines": [
+        "That was kind.",
+        "That makes sense.",
+        "Good words help.",
+        "I’ll think about that.",
+        "You said that well."
+      ],
+      "fail": [
+        "I don’t get it.",
+        "Maybe later.",
+        "That was confusing.",
+        "I lost the meaning.",
+        "My thoughts went somewhere else."
+      ]
+    }
+  },
+  "Joke": {
+    "wise": {
+      "lines": [
+        "Haha.",
+        "That was funny.",
+        "That joke had a point.",
+        "I understand. Mostly.",
+        "Wisdom can be silly too."
+      ],
+      "fail": [
+        "I don’t get it.",
+        "Was that the joke?",
+        "I missed the funny part.",
+        "That one confused me.",
+        "Maybe the joke needs more time."
+      ]
+    }
+  },
+  "Mean": {
+    "wise": {
+      "lines": [
+        "That was sharp.",
+        "I see your point.",
+        "That sounded almost wise.",
+        "You used grumpy logic.",
+        "That was a careful grumble."
+      ],
+      "fail": [
+        "That was not kind.",
+        "That was just rude.",
+        "Mean words are heavy.",
+        "That didn’t sound wise.",
+        "You can say better things."
+      ]
+    }
+  }
+}

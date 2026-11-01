@@ -1,0 +1,614 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "¡Hola!",
+        "¡Ah, hola!",
+        "¡Hoy pareces de buen humor!",
+        "Hace un día genial para charlar, ¿no?",
+        "¡Me alegra que hayas venido!"
+      ],
+      "fail": [
+        "Oh... perdona, hoy tengo la cabeza en otra parte.",
+        "Ahora mismo no me apetece hablar."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "¿Qué quieres ahora?",
+        "¿No ves que tengo cosas que hacer?",
+        "Uf... eres tú.",
+        "Ve al grano.",
+        "¿Qué pasa esta vez?"
+      ],
+      "fail": [
+        "Vete antes de que pierda la paciencia.",
+        "¿No te dije que me dejaras en paz?"
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Oh... hola.",
+        "Eh... hola.",
+        "No esperaba verte.",
+        "Je... me has dado un susto.",
+        "Hola... supongo."
+      ],
+      "fail": [
+        "Oh... no quería empezar a hablar.",
+        "Perdona, yo... necesito un momento."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "¡Eh! Siempre alegra ver que sigues resistiendo.",
+        "¡Un nuevo día, una nueva aventura!",
+        "¡Hagamos que hoy cuente!",
+        "No nos asusta ninguna criatura, ¿verdad?",
+        "Con la misma fuerza de siempre, ¿eh?"
+      ],
+      "fail": [
+        "No es momento para charlas.",
+        "Centrémonos, nada de distracciones."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Sí, hola.",
+        "Tú otra vez... genial.",
+        "¿Y ahora qué?",
+        "¿No habíamos hablado ya?",
+        "Hagámoslo rápido."
+      ],
+      "fail": [
+        "Uf... ahora no.",
+        "No estoy de humor para esto."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "¿Tienes algo valioso para mí?",
+        "No habrás venido con las manos vacías, ¿verdad?",
+        "Hablemos de negocios... o de tesoros.",
+        "Espero que hayas traído algo de oro.",
+        "Primero los negocios, luego hablamos."
+      ],
+      "fail": [
+        "Hoy no hay trato.",
+        "Vuelve cuando tengas algo que brille."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "No esperaba encontrarme con nadie por aquí.",
+        "Haces que la aldea brille.",
+        "Hoy tienes un aspecto increíble.",
+        "Esperaba que aparecieras.",
+        "Se me ha acelerado el corazón al verte."
+      ],
+      "fail": [
+        "Hoy no siento esa chispa, perdona.",
+        "Mejor... no hablemos ahora."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Saludos. ¿Qué te trae por aquí?",
+        "Ah, alguien en busca de conocimiento. Adelante.",
+        "La sabiduría comienza con la curiosidad.",
+        "Una mente tranquila abre todas las puertas.",
+        "El camino que tienes delante está más claro de lo que crees."
+      ],
+      "fail": [
+        "Ahora no es momento para palabras.",
+        "Incluso la sabiduría necesita silencio a veces."
+      ]
+    }
+  },
+
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "¡Siempre da gusto hablar contigo!",
+        "Tienes muy buen corazón.",
+        "Haces que la aldea se sienta más acogedora.",
+        "Siempre sabes qué decir.",
+        "Transmites muy buenas sensaciones."
+      ],
+      "fail": [
+        "Perdona, ahora mismo no estoy de humor.",
+        "Hablamos luego, ¿vale?"
+      ]
+    },
+    "mean": {
+      "lines": [
+        "¿Amabilidad? No me lo esperaba.",
+        "¿Intentas ser amable por una vez?",
+        "Eso ha sido... sorprendentemente amable por tu parte.",
+        "¿Crees que eso va a cambiar algo?",
+        "Guárdate esa sonrisa falsa."
+      ],
+      "fail": [
+        "No tientes a la suerte.",
+        "Esta vez las palabras bonitas no van a funcionar."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Oh... gracias.",
+        "Ha sido muy bonito por tu parte.",
+        "Je... qué amable.",
+        "No tengo costumbre de recibir cumplidos.",
+        "Me estás haciendo sonrojar."
+      ],
+      "fail": [
+        "Oh... no quería molestarte.",
+        "Perdona... mejor me quedo en silencio."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "¡Gracias! Sigamos luchando con fuerza.",
+        "Un buen ánimo ayuda a luchar mejor.",
+        "Me cubres las espaldas, ¿verdad?",
+        "El buen ánimo ayuda en la batalla.",
+        "El valor es mejor cuando se comparte."
+      ],
+      "fail": [
+        "No tenemos tiempo para hablar.",
+        "Mantente alerta, este no es el lugar."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Sí, sí... no estás mal.",
+        "No hagas que esto se vuelva raro.",
+        "Supongo que no eres para tanto.",
+        "Vale, lo admitiré, tienes algo de decencia.",
+        "No me caes mal, supongo."
+      ],
+      "fail": [
+        "Déjame en paz por ahora.",
+        "Tanta amabilidad empieza a resultar molesta."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Las palabras bonitas no pagan las facturas.",
+        "¿Tienes alguna moneda que acompañe a esa sonrisa?",
+        "Hablar sale barato, los tesoros no.",
+        "Los halagos no te van a conseguir descuentos.",
+        "Ya veremos si sigues mostrando tanta amabilidad después de comerciar."
+      ],
+      "fail": [
+        "Sin oro no hay trato.",
+        "Hablamos luego. Después de los negocios."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "De verdad sabes cómo hacerme sonreír.",
+        "¡Deja de tener tanto encanto!",
+        "Hoy tienes muy buen aspecto.",
+        "¿Le hablas así a todo el mundo?",
+        "¿De verdad lo dices?"
+      ],
+      "fail": [
+        "Qué bonito, pero hoy no.",
+        "Quizá en otro momento, ¿vale?"
+      ]
+    },
+    "wise": {
+      "lines": [
+        "La bondad es la mayor de las fortalezas.",
+        "Tus palabras reflejan lo que hay en tu corazón.",
+        "Hablas con sentido. No mucha gente lo hace.",
+        "Je, hay sabiduría en tus palabras. Me gusta.",
+        "Me alegra saber que todavía queda algo de sensatez en el mundo."
+      ],
+      "fail": [
+        "Incluso las palabras amables pueden no servir de nada.",
+        "El momento de hablar ya ha pasado."
+      ]
+    }
+  },
+
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "¡Eso no es propio de ti!",
+        "Eh, ¿a qué viene esa actitud?",
+        "¿Estás bien? Parece que te pasa algo.",
+        "Vaya... no me esperaba eso de ti.",
+        "Necesitas un abrazo, no tanto enfado."
+      ],
+      "fail": [
+        "Eso no ha sido muy amable.",
+        "Hoy te comportas de una forma un poco rara."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "¿Por fin estás enseñando cómo eres de verdad?",
+        "¡Ja! Me gusta tu actitud.",
+        "Sigue hablando así y nos llevaremos bien.",
+        "¿A eso lo llamas ser borde? Esfuérzate más.",
+        "No juegues conmigo, sé devolver los golpes."
+      ],
+      "fail": [
+        "¿A eso lo llamas intimidar? Patético.",
+        "Solo estás haciendo el ridículo."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Oh... ¿he dicho algo malo?",
+        "No quería hacerte enfadar.",
+        "Por favor, no te enfades...",
+        "Perdona si te he molestado.",
+        "Será mejor que lo olvidemos."
+      ],
+      "fail": [
+        "No debería haber dicho eso.",
+        "Eso ha sonado mal..."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Cuidado con lo que dices.",
+        "Si quieres pelear, cuando quieras.",
+        "Tienes agallas, eso te lo reconozco.",
+        "Respeto la valentía, no la mala educación.",
+        "Cuidado, las palabras pueden cortar más que una espada."
+      ],
+      "fail": [
+        "Has ido demasiado lejos.",
+        "Guarda esa energía para la batalla."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Ahora sí que hablas mi idioma.",
+        "Por fin alguien que lo entiende.",
+        "Ya era hora de que te pusieras en serio.",
+        "Quejémonos juntos y ya está.",
+        "Vale, te permitiré esa actitud."
+      ],
+      "fail": [
+        "¿A eso lo llamas enfado? Por favor.",
+        "Ni siquiera te has acercado."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Los insultos no van a bajar el precio.",
+        "Enfadarte no va a llenarte los bolsillos.",
+        "Hablas con mucha seguridad, pero ¿puedes pagar?",
+        "Los insultos cuestan extra.",
+        "El próximo insulto cuesta el doble."
+      ],
+      "fail": [
+        "Vas a pagar de más por hablarme así.",
+        "Vuelve a intentarlo y habremos terminado."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Vaya... eso ha sido bastante duro.",
+        "No pensaba que me hablarías así.",
+        "Tienes suerte de que esa pasión me resulte... atractiva.",
+        "Esa es una forma bastante intensa de coquetear.",
+        "Hasta ese enfado tiene su encanto."
+      ],
+      "fail": [
+        "Eso ha sido demasiado.",
+        "No me ha gustado nada."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "La ira ciega hasta a las mentes más sabias.",
+        "Las palabras crueles resuenan más que el silencio.",
+        "Incluso el mal genio puede destruir la paz.",
+        "Habla con cabeza, no con furia.",
+        "La calma gana más batallas que los gritos."
+      ],
+      "fail": [
+        "A tus palabras les ha faltado sabiduría.",
+        "El silencio habría sido una opción mejor."
+      ]
+    }
+  },
+
+"Joke": {
+    "friendly": {
+      "lines": [
+        "¡Ja, ja! Tienes muchísima gracia.",
+        "De verdad sabes cómo hacerme reír.",
+        "Deberías dedicarte a contar chistes.",
+        "¡Ese ha sido bueno!",
+        "De verdad sabes cómo animar el ambiente."
+      ],
+      "fail": [
+        "Ese no ha funcionado.",
+        "¡Has contado chistes mejores!"
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Eso ha sido... gracioso de verdad.",
+        "No dejes tu trabajo.",
+        "Te estás esforzando demasiado.",
+        "Je, no ha estado mal por una vez.",
+        "Vale, has conseguido hacerme reír."
+      ],
+      "fail": [
+        "Ha sido doloroso escucharlo.",
+        "No tienes gracia, deja de intentarlo."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Je, je... para.",
+        "Ha sido gracioso.",
+        "Siempre consigues hacerme reír.",
+        "Menuda tontería acabas de decir.",
+        "Je... gracias por animarme."
+      ],
+      "fail": [
+        "Oh... no lo he entendido.",
+        "Je... eso ha sido incómodo."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "¡Ja, ja! Necesitaba reírme.",
+        "Hasta en plena batalla hace falta algo de humor.",
+        "Buen chiste. Ahora volvamos a lo nuestro.",
+        "Tienes agallas y buen sentido del humor.",
+        "Me río ahora y peleo después."
+      ],
+      "fail": [
+        "No es el mejor momento para bromas.",
+        "Sigamos con atención, ¿vale?"
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "¿Se suponía que eso era gracioso?",
+        "He oído chistes peores.",
+        "Qué ridiculez.",
+        "Vale, lo admitiré... no ha estado mal.",
+        "No esperes que vuelva a reírme."
+      ],
+      "fail": [
+        "Me estás haciendo perder el tiempo.",
+        "No tiene gracia. Ninguna."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Si me río, ¿te debo algo?",
+        "¿También cobras por los chistes?",
+        "¡Ja, ja! ¿Tienes algún chiste sobre tesoros?",
+        "Sigue haciendo bromas y quizá te haga un descuento.",
+        "Tú te ríes y yo gano. ¿Trato hecho?"
+      ],
+      "fail": [
+        "Los chistes no dan beneficios.",
+        "Yo solo me río por oro."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Tienes tanta gracia que no es justo.",
+        "Deja de hacerme sonreír tanto.",
+        "Qué encanto tienes cuando intentas hacer bromas.",
+        "Podrías conquistar a cualquiera con ese humor.",
+        "Coqueteando entre risas, ¿eh?"
+      ],
+      "fail": [
+        "Je... eso no ha tenido mucho encanto.",
+        "Quizá deberías limitarte a sonreír."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "La risa es la mejor medicina.",
+        "El humor despeja la mente.",
+        "Hasta la sabiduría disfruta de un buen chiste.",
+        "Una sonrisa abre más puertas que el oro.",
+        "Con ese chiste haces que el mundo parezca un poco más ligero."
+      ],
+      "fail": [
+        "A ese chiste le ha faltado sentido.",
+        "Ni la sabiduría puede salvar ese final."
+      ]
+    }
+  },
+
+  "Flirt": {
+    "friendly": {
+      "lines": [
+        "¡Ja, ja, para ya!",
+        "¡Me estás haciendo sonrojar!",
+        "¡Tienes demasiada gracia!",
+        "Vaya, tienes bastante encanto, ¿eh?",
+        "Me lo tomaré como un cumplido."
+      ],
+      "fail": [
+        "Oh, para... eso no está funcionando.",
+        "Te estás esforzando demasiado."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Coquetear no te va a llevar a ninguna parte.",
+        "No eres mi tipo.",
+        "Ja, buen intento.",
+        "¿Ya has terminado de hacer el ridículo?",
+        "Ya te gustaría."
+      ],
+      "fail": [
+        "¿A eso lo llamas coquetear? Patético.",
+        "Ha sido doloroso de ver."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Oh... eh... gracias.",
+        "¿D-de verdad lo dices?",
+        "No sé qué decir...",
+        "Me estás poniendo de los nervios.",
+        "Je... qué bonito."
+      ],
+      "fail": [
+        "Oh... lo siento, pero yo... no puedo.",
+        "Estás haciendo que esto sea incómodo..."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Eso ha sido muy atrevido. Me gusta.",
+        "Hace falta valor para coquetear conmigo.",
+        "Tienes agallas, eso te lo reconozco.",
+        "Mantén esa confianza, te sienta bien.",
+        "Me gusta la gente que se arriesga."
+      ],
+      "fail": [
+        "Eso ha sido atrevido, pero no convence.",
+        "Quizá la próxima vez."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Uf... para ya.",
+        "No tienes remedio.",
+        "¿Ya has terminado?",
+        "Hmpf... lo que tú digas.",
+        "Supongo que eso ha estado... decente."
+      ],
+      "fail": [
+        "Ya me estás molestando.",
+        "Eso ha sido terrible."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Coquetear no va a hacer que baje mis precios.",
+        "¿Intentas conseguir un descuento con tus encantos?",
+        "Palabras dulces y bolsillos vacíos.",
+        "Quizá si me compras algo brillante.",
+        "El amor no paga el alquiler, ya sabes."
+      ],
+      "fail": [
+        "No hay descuento por coquetear mal.",
+        "Vuelve a intentarlo cuando tu cartera pese más."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Tienes toda mi atención, cariño.",
+        "De verdad sabes cómo hablarme.",
+        "Tienes un encanto peligroso.",
+        "Cuidado, podría acabar enamorándome de ti.",
+        "Siempre consigues acelerarme el corazón."
+      ],
+      "fail": [
+        "Oh... eso no ha sentado bien.",
+        "Quizá deberías guardar esa frase para otro momento."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Los halagos son el arte de los necios y los poetas.",
+        "Hasta las mentes más sabias pueden caer ante unas palabras bonitas.",
+        "El encanto es pasajero; la verdad dura más.",
+        "Tus palabras son bonitas, pero ¿las dices de verdad?",
+        "Cada sonrisa esconde una historia."
+      ],
+      "fail": [
+        "La sabiduría me dice que desconfíe de ese encanto.",
+        "La próxima vez prueba con la sinceridad."
+      ]
+    }
+  },
+
+  "QuestIntro": {
+    "quest_kill_zombies": {
+      "lines": [
+        "Los monstruos han estado atacando por la noche. ¿Podrías derrotar a 10 zombis por la aldea?"
+      ]
+    },
+    "quest_kill_skeletons": {
+      "lines": [
+        "Los esqueletos llevan un tiempo rondando nuestros campos. ¿Podrías acabar con 10 de ellos?"
+      ]
+    },
+    "quest_kill_ender_dragon": {
+      "lines": [
+        "El Dragón del End sigue con vida... Solo alguien con auténtico valor podría derrotarlo. ¿Te enfrentarás a él?"
+      ]
+    },
+    "quest_travel_nether": {
+      "lines": [
+        "He oído sonidos extraños que vienen de otro mundo. ¿Podrías viajar al Nether y volver con vida?"
+      ]
+    },
+    "quest_travel_end": {
+      "lines": [
+        "Necesitamos saber qué está pasando al otro lado de los portales del End. ¿Podrías ir y regresar con vida?"
+      ]
+    },
+    "quest_relationship_friend": {
+      "lines": [
+        "Esta aldea necesita vínculos más fuertes. ¿Podrías entablar una amistad cercana con alguien de aquí y alcanzar al menos 5 corazones?"
+      ]
+    },
+    "quest_tame_wolf": {
+      "lines": [
+        "Nos vendría bien un guardián leal. ¿Podrías domesticar un lobo para proteger la aldea?"
+      ]
+    }
+  },
+
+  "QuestAccept": {
+    "default": {
+      "lines": [
+        "Gracias. La aldea recordará lo que has hecho.",
+        "Ten cuidado ahí fuera y buena suerte.",
+        "Sabía que podía contar contigo."
+      ]
+    }
+  },
+
+  "QuestDecline": {
+    "default": {
+      "lines": [
+        "Oh... entiendo. Quizá en otro momento.",
+        "No pasa nada, buscaré a otra persona.",
+        "Lo entiendo. No todo el mundo tiene ganas de enfrentarse al peligro."
+      ]
+    }
+  },
+
+  "QuestComplete": {
+    "default": {
+      "lines": [
+        "¡Lo has conseguido! ¡Gracias por ayudarnos!",
+        "Sabía que lo lograrías. Ahora la aldea está más segura.",
+        "¡La aldea te considera toda una leyenda!"
+      ]
+    }
+  },
+
+  "QuestCancel": {
+    "default": {
+      "lines": [
+        "Es una pena... Tendré que buscar a otra persona.",
+        "¿Así que has cambiado de opinión? Lo entiendo.",
+        "No te preocupes, quizá en otro momento."
+      ]
+    }
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Olá!",
+        "Ah, oi!",
+        "Você parece alegre hoje!",
+        "É um ótimo dia para conversar, não é?",
+        "Que bom que você passou por aqui!"
+      ],
+      "fail": [
+        "Ah... desculpe, estou um pouco distraído hoje.",
+        "Não estou com vontade de conversar agora."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "O que você quer agora?",
+        "Não vê que estou ocupado?",
+        "Ugh... é você.",
+        "Seja breve.",
+        "O que é desta vez?"
+      ],
+      "fail": [
+        "Vá embora antes que eu perca a paciência.",
+        "Eu não te disse para me deixar em paz?"
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ah... oi.",
+        "Hum... oi.",
+        "Eu não estava esperando por você.",
+        "Heh... você me assustou.",
+        "Oi... eu acho."
+      ],
+      "fail": [
+        "Ah... eu não queria conversar.",
+        "Desculpe, eu... preciso de um momento."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Ei! É sempre bom ver alguém ainda de pé e forte.",
+        "Mais um dia, mais uma missão!",
+        "Vamos fazer valer o dia de hoje!",
+        "Nenhum monstro nos assusta, certo?",
+        "Mantendo-se firme como sempre, hein?"
+      ],
+      "fail": [
+        "Não é hora para conversa fiada.",
+        "Vamos focar, sem distrações."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "É, olá.",
+        "Você de novo... ótimo.",
+        "O que agora?",
+        "A gente já não conversou?",
+        "Vamos fazer isso ser rápido."
+      ],
+      "fail": [
+        "Ugh... agora não.",
+        "Não estou com humor para isso."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Tem algo valioso para mim?",
+        "Você não veio de mãos vazias, veio?",
+        "Vamos falar de comércio... ou de tesouros.",
+        "Espero que tenha trazido um pouco de ouro.",
+        "Negócios primeiro, conversa depois."
+      ],
+      "fail": [
+        "Sem negócio hoje.",
+        "Volte quando tiver algo brilhante."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Não achei que encontraria alguém por aqui.",
+        "Você ilumina a vila.",
+        "Você está incrível hoje.",
+        "Eu estava torcendo para você aparecer.",
+        "Meu coração disparou ao ver você."
+      ],
+      "fail": [
+        "Não estou no clima hoje, desculpe.",
+        "Vamos só... não conversar agora."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Saudações. O que o traz aqui?",
+        "Ah, buscador de conhecimento, bem-vindo.",
+        "A sabedoria começa com a curiosidade.",
+        "Uma mente calma abre todas as portas.",
+        "O caminho à frente é mais claro do que você pensa."
+      ],
+      "fail": [
+        "Agora não é hora de palavras.",
+        "Até a sabedoria precisa de silêncio às vezes."
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "É sempre bom conversar com você!",
+        "Você tem um espírito tão bom.",
+        "Você deixa a vila mais acolhedora.",
+        "Você sempre sabe o que dizer.",
+        "Você traz boas energias."
+      ],
+      "fail": [
+        "Desculpe, não estou com vontade agora.",
+        "Vamos conversar mais tarde, ok?"
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Amigável, hein? Não esperava isso.",
+        "Está tentando ser legal por uma vez?",
+        "Isso é... surpreendentemente gentil da sua parte.",
+        "Você acha que isso vai mudar alguma coisa?",
+        "Guarde seu sorriso falso para você."
+      ],
+      "fail": [
+        "Não abuse da sorte.",
+        "Palavras gentis não vão funcionar desta vez."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ah... obrigado.",
+        "Isso foi muito doce da sua parte.",
+        "Heh... você é gentil demais.",
+        "Não estou acostumado com elogios.",
+        "Você está me deixando corado."
+      ],
+      "fail": [
+        "Ah... eu não quis ofender.",
+        "Desculpe... vou ficar quieto."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Obrigado, amigo! Vamos continuar lutando firme.",
+        "Bons espíritos fazem bons guerreiros.",
+        "Você me protege, né?",
+        "Boas energias alimentam as batalhas.",
+        "A coragem é melhor quando compartilhada."
+      ],
+      "fail": [
+        "Não temos tempo para conversa.",
+        "Fique alerta, aqui não é o lugar."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "É, é... você até que é legal.",
+        "Não torne isso estranho.",
+        "Acho que você não é tão ruim assim.",
+        "Certo, admito, você é decente.",
+        "Você é legal, eu acho."
+      ],
+      "fail": [
+        "Me deixe em paz por enquanto.",
+        "Você está sendo legal demais, é irritante."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Palavras gentis não pagam as contas.",
+        "Tem alguma moeda para acompanhar esse sorriso?",
+        "Conversa é barata, tesouro não.",
+        "Lisonja não vai te dar descontos.",
+        "Vamos ver se você continua amigável depois de negociar."
+      ],
+      "fail": [
+        "Nada de negócios sem ouro.",
+        "Conversamos mais tarde. Depois dos negócios."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Você realmente sabe como me fazer sorrir.",
+        "Pare de ser tão encantador!",
+        "Está muito bem hoje.",
+        "Você fala assim com todo mundo?",
+        "Você realmente quer dizer isso?"
+      ],
+      "fail": [
+        "Você é doce, mas não hoje.",
+        "Talvez em outra hora, tudo bem?"
+      ]
+    },
+    "wise": {
+      "lines": [
+        "A gentileza é a maior força.",
+        "Suas palavras refletem seu coração.",
+        "Você fala com sensatez. Poucos fazem isso.",
+        "Heh, sabedoria em suas palavras. Gostei disso.",
+        "Fico feliz em saber que ainda existe bom senso no mundo."
+      ],
+      "fail": [
+        "Mesmo palavras gentis podem não surtir efeito.",
+        "O momento para conversar já passou."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Isso não é do seu feitio!",
+        "Ei, o que é essa atitude?",
+        "Está tudo bem? Você parece chateado.",
+        "Uau... não esperava isso de você.",
+        "Você precisa de um abraço, não de raiva."
+      ],
+      "fail": [
+        "Isso não foi muito legal.",
+        "Você está agindo de forma estranha hoje."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Finalmente mostrando suas verdadeiras cores?",
+        "Ha! Gostei do seu espírito.",
+        "Mantenha esse tom e a gente vai se entender.",
+        "Você chama isso de ser mau? Tente com mais força.",
+        "Não brinque comigo, eu revido."
+      ],
+      "fail": [
+        "Você chama isso de ser durão? Patético.",
+        "Você só está se envergonhando."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ah... eu disse algo errado?",
+        "Eu não queria te chatear.",
+        "Por favor, não fique bravo...",
+        "Desculpe se te incomodei.",
+        "Vamos só esquecer isso."
+      ],
+      "fail": [
+        "Eu não deveria ter dito isso.",
+        "Isso saiu errado..."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Cuidado com suas palavras.",
+        "Se você quer lutar, estou pronto.",
+        "Você tem coragem, admito isso.",
+        "Respeito ousadia, não grosseria.",
+        "Cuidado, palavras cortam mais fundo que espadas."
+      ],
+      "fail": [
+        "Você foi longe demais.",
+        "Guarde essa energia para a batalha."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Agora você está falando a minha língua.",
+        "Finalmente alguém que entende.",
+        "Demorou para levar a sério, hein?",
+        "Vamos reclamar juntos.",
+        "Certo, vou aceitar a atitude."
+      ],
+      "fail": [
+        "Você chama isso de raiva? Por favor.",
+        "Isso nem chegou perto."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Insultos não vão baixar o preço.",
+        "Raiva não vai encher seus bolsos.",
+        "Você fala como durão, mas pode pagar?",
+        "Insultos custam extra.",
+        "O próximo insulto custa o dobro."
+      ],
+      "fail": [
+        "Você vai pagar extra por esse tom.",
+        "Tente isso de novo e acabamos por aqui."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Uau... isso foi duro.",
+        "Não achei que você falaria comigo desse jeito.",
+        "Você tem sorte de eu achar essa paixão... atraente.",
+        "Essa é uma maneira bem intensa de flertar.",
+        "Até sua raiva parece fofa."
+      ],
+      "fail": [
+        "Isso foi longe demais.",
+        "Eu não gostei nada disso."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "A raiva cega os sábios.",
+        "Palavras duras ecoam mais alto que o silêncio.",
+        "Mesmo temperamentos podem destruir a paz.",
+        "Fale com reflexão, não com fúria.",
+        "Os calmos vencem mais batalhas do que os barulhentos."
+      ],
+      "fail": [
+        "Suas palavras careceram de sabedoria.",
+        "O silêncio teria ficado melhor em você."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Haha! Você é hilário.",
+        "Você realmente sabe como me fazer rir.",
+        "Você deveria ser comediante.",
+        "Essa foi boa!",
+        "Você realmente alegra o ambiente."
+      ],
+      "fail": [
+        "Essa não colou.",
+        "Você já contou piadas melhores!"
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso... é engraçado de verdade.",
+        "Não abandone seu emprego principal.",
+        "Você está tentando demais.",
+        "Heh, nada mal desta vez.",
+        "Ok, você me fez rir."
+      ],
+      "fail": [
+        "Foi doloroso ouvir isso.",
+        "Você não é engraçado, pare de tentar."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Hehe... pare com isso.",
+        "Isso foi engraçado.",
+        "Você sempre me faz dar risadinhas.",
+        "Você é bobo, sabia?",
+        "Heh... obrigado por me animar."
+      ],
+      "fail": [
+        "Ah... eu não entendi.",
+        "Heh... isso foi estranho."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Haha! Precisava dessa risada.",
+        "Até guerreiros precisam de humor.",
+        "Boa piada — agora voltando ao trabalho.",
+        "Você tem coragem e um bom senso de humor.",
+        "Vou rir agora, lutar depois."
+      ],
+      "fail": [
+        "Não é o melhor momento para piadas.",
+        "Vamos nos manter focados, ok?"
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso era para ser engraçado?",
+        "Já ouvi piadas piores.",
+        "Você é ridículo.",
+        "Certo, admito... essa foi aceitável.",
+        "Não espere que eu ria de novo."
+      ],
+      "fail": [
+        "Você está perdendo meu tempo.",
+        "Nada engraçado. Nem um pouco."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Se eu rir, estou te devendo algo?",
+        "Você cobra pelas piadas também?",
+        "Haha! Tem alguma piada sobre tesouros?",
+        "Continue brincando, talvez eu te dê um desconto.",
+        "Você ri, eu lucro. Fechado?"
+      ],
+      "fail": [
+        "Piadas não dão lucro.",
+        "Eu só rio por ouro."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Você é tão engraçado, é injusto.",
+        "Pare de me fazer sorrir tanto.",
+        "Você é adorável quando tenta fazer piada.",
+        "Você poderia encantar qualquer um com esse humor.",
+        "Flertando através do riso, hein?"
+      ],
+      "fail": [
+        "Heh... isso não foi muito charmoso.",
+        "Talvez continue apenas sorrindo."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "O riso é o melhor remédio.",
+        "O humor limpa a mente.",
+        "Até a sabedoria gosta de uma boa piada.",
+        "Um sorriso abre mais portas do que ouro.",
+        "Você torna o mundo mais leve com essa piada."
+      ],
+      "fail": [
+        "Essa piada perdeu o sentido.",
+        "Nem a sabedoria pode salvar esse final."
+      ]
+    }
+  },
+  "Flirt": {
+    "friendly": {
+      "lines": [
+        "Haha, pare com isso, você!",
+        "Você está me deixando corada!",
+        "Você é engraçado demais!",
+        "Você é um grande sedutor, hein?",
+        "Vou encarar isso como um elogio."
+      ],
+      "fail": [
+        "Ah, pare... isso não está funcionando.",
+        "Você está tentando demais."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Flertar não vai te levar a lugar nenhum.",
+        "Você não faz meu tipo.",
+        "Ha, boa tentativa.",
+        "Terminou de se envergonhar?",
+        "Pode sonhar."
+      ],
+      "fail": [
+        "Você chama isso de flertar? Patético.",
+        "Foi doloroso assistir."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ah... uh... obrigado.",
+        "V-você realmente quer dizer isso?",
+        "Eu não sei o que dizer...",
+        "Você está me deixando nervoso.",
+        "Heh... você é doce."
+      ],
+      "fail": [
+        "Ah... desculpe, eu apenas... não consigo.",
+        "Você está deixando isso estranho..."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Você é ousado, gosto disso.",
+        "É preciso coragem para flertar comigo.",
+        "Você tem audácia, admito isso.",
+        "Mantenha essa confiança, combina com você.",
+        "Gosto de alguém que corre riscos."
+      ],
+      "fail": [
+        "Você é ousado, mas não convincente.",
+        "Talvez na próxima, herói."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Ugh... pare com isso.",
+        "Você é inacreditável.",
+        "Já acabou?",
+        "Hmph... tanto faz.",
+        "Acho que isso foi... decente."
+      ],
+      "fail": [
+        "Você está me irritando agora.",
+        "Isso foi terrível."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Flertar não vai baixar meus preços.",
+        "Está tentando seduzir um desconto de mim?",
+        "Palavras doces, bolsos vazios.",
+        "Talvez se você me comprar algo brilhante.",
+        "Amor não paga o aluguel, sabe."
+      ],
+      "fail": [
+        "Nada de desconto para paqueras ruins.",
+        "Tente de novo quando sua carteira estiver mais pesada."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Você tem minha atenção, querido(a).",
+        "Você realmente sabe como falar comigo.",
+        "Você é perigosamente charmoso.",
+        "Cuidado, ou posso me apaixonar por você.",
+        "Você sempre faz meu coração acelerar."
+      ],
+      "fail": [
+        "Ah... isso não pareceu certo.",
+        "Talvez guarde essa para outra hora."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Lisonja é a arte dos tolos e poetas.",
+        "Até os sábios podem cair em palavras gentis.",
+        "O charme é passageiro; a verdade dura mais.",
+        "Suas palavras são gentis, mas você é sincero?",
+        "Todo sorriso esconde uma história."
+      ],
+      "fail": [
+        "A sabedoria me alerta contra esse charme.",
+        "Tente a honestidade na próxima vez."
+      ]
+    }
+  },
+  "QuestIntro": {
+    "quest_kill_zombies": {
+      "lines": [
+        "Monstros estão atacando à noite. Você poderia derrotar 10 zumbis pela vila?"
+      ]
+    },
+    "quest_kill_skeletons": {
+      "lines": [
+        "Os esqueletos estão assombrando nossos campos. Pode acabar com 10 deles?"
+      ]
+    },
+    "quest_kill_ender_dragon": {
+      "lines": [
+        "O Ender Dragon ainda vive... Apenas um verdadeiro herói poderia derrotá-lo. Você o enfrentará?"
+      ]
+    },
+    "quest_travel_nether": {
+      "lines": [
+        "Ouvi sons estranhos vindo de outro mundo. Poderia viajar até o Nether e voltar em segurança?"
+      ]
+    },
+    "quest_travel_end": {
+      "lines": [
+        "Precisamos saber o que está acontecendo além dos portais do End. Poderia ir até lá e retornar vivo?"
+      ]
+    },
+    "quest_relationship_friend": {
+      "lines": [
+        "Esta vila precisa de laços mais fortes. Você poderia se tornar amigo íntimo de um de nós — pelo menos 5 corações?"
+      ]
+    },
+    "quest_tame_wolf": {
+      "lines": [
+        "Poderíamos usar um guardião leal. Você poderia domesticar um lobo para proteger a vila?"
+      ]
+    }
+  },
+  "QuestAccept": {
+    "default": {
+      "lines": [
+        "Obrigado. A vila se lembrará disso.",
+        "Tenha cuidado por aí e boa sorte.",
+        "Eu sabia que podia contar com você."
+      ]
+    }
+  },
+  "QuestDecline": {
+    "default": {
+      "lines": [
+        "Ah... entendo. Talvez em outra hora.",
+        "Tudo bem, vou encontrar outra pessoa.",
+        "Eu entendo. Nem todos estão prontos para o perigo."
+      ]
+    }
+  },
+  "QuestComplete": {
+    "default": {
+      "lines": [
+        "Você conseguiu! Obrigado por nos ajudar!",
+        "Eu sabia que você teria sucesso. A vila está mais segura agora.",
+        "Você é um verdadeiro herói!"
+      ]
+    }
+  },
+  "QuestCancel": {
+    "default": {
+      "lines": [
+        "Que pena... Vou ter que encontrar outra pessoa.",
+        "Então você mudou de ideia? Eu entendo.",
+        "Não se preocupe, talvez em outra hora."
+      ]
+    }
+  }
+}

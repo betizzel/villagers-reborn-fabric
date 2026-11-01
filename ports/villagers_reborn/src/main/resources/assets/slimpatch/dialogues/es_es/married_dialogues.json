@@ -1,0 +1,596 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Hola, mi amor.",
+        "Ahí estás, cariño.",
+        "Me gusta lo natural que se siente tenerte cerca.",
+        "Haces que hasta los momentos tranquilos sean agradables.",
+        "Todavía sonrío antes de saber qué voy a decirte."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Hola, mi amor.",
+        "Hola... cariño.",
+        "Todavía me pongo nervioso contigo. Creo que me gusta.",
+        "Tenerte cerca es más fácil ahora, pero sigue siendo especial.",
+        "Me encantan los momentos tranquilos contigo. Me hacen sentir seguridad."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Hola, cariño.",
+        "Ahí estás, mi amor.",
+        "Me sigue encantando cómo se siente el mundo cuando estás cerca.",
+        "Ser tu pareja no hace que distraigas menos.",
+        "Pensaba que el matrimonio calmaría esta sensación. No ha sido así."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Hola, mi tesoro.",
+        "Ahí estás, cariño.",
+        "Casarme contigo sigue siendo mi mejor inversión.",
+        "Eres fatal para mi concentración y genial para mi humor.",
+        "Antes contaba esmeraldas. Ahora pierdo la cuenta cuando estás cerca."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Hola, amor. No pongas esa cara de satisfacción.",
+        "Ahí estás. Bien.",
+        "Estaba a gusto. Entonces llegaste y me alegraste. Qué descaro.",
+        "Sigues siendo mi problema favorito.",
+        "Supongo que casarme contigo no ha sido lo peor que me ha pasado."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Hola, cariño. No te pongas tan orgulloso.",
+        "Ahí estás. Empezaba a disfrutar menos del silencio.",
+        "Sigues siendo un problema. Por suerte, tengo buen gusto.",
+        "Me casé contigo, así que supongo que ahora es responsabilidad mía.",
+        "No me mires así salvo que vayas a hacer que merezca la pena."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Hola, mi amor.",
+        "Ahí estás, cariño.",
+        "Todavía encuentro paz cuando estás cerca.",
+        "El matrimonio no te hizo menos fascinante. Solo me dio más tiempo para verlo.",
+        "Algunos días son más fáciles simplemente porque formas parte de ellos."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Hola, amor.",
+        "Ahí estás, mi vida.",
+        "Todavía siento más fuerza cuando estás a mi lado.",
+        "Pase lo que pase, me alegra vivirlo contigo.",
+        "Casarme contigo fue la decisión más valiente que he tomado."
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Sigues sabiendo cómo hacerme sentir querido.",
+        "Eso ha sido muy dulce. Nunca me cansaré de ello.",
+        "Me gusta que cuides de mí. Se siente diferente.",
+        "Haces que el hogar sea una persona y no un lugar.",
+        "Eso me ha hecho sentir mucha suerte. Lo digo en serio."
+      ],
+      "fail": [
+        "Eso ha sido dulce de una forma muy confusa.",
+        "Sé lo que querías decir. Las palabras dieron un rodeo.",
+        "Eso casi ha sonado romántico. Casi.",
+        "Te quiero, pero esa frase necesita ayuda.",
+        "Lo has intentado. He decidido que eso tiene encanto."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Siempre sabes cómo hacerme sentir seguridad.",
+        "Eso ha sido dulce. Todavía no sé cómo responder bien.",
+        "Me gusta cuando eres delicado conmigo. Se siente como el hogar.",
+        "Contigo es más fácil decir lo que siento.",
+        "Eso me ha hecho sentir cariño de la forma más suave."
+      ],
+      "fail": [
+        "Sé que lo decías con cariño. Solo me he hecho un lío.",
+        "Eso ha sido dulce, pero creo que mi cabeza se ha escondido.",
+        "Quería responder mejor, pero me has pillado por sorpresa.",
+        "Eso casi ha llegado. Necesito un segundo.",
+        "Te quiero, pero ha sonado algo confuso."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Sigues sabiendo cómo hacerme sentir especial.",
+        "Eso ha sido dulce. Espero que nunca dejes de decir cosas así.",
+        "Me encanta cuando eres delicado conmigo. Todo lo demás desaparece un poco.",
+        "Haces que las palabras normales parezcan promesas.",
+        "Eso me ha recordado por qué te entregué mi corazón."
+      ],
+      "fail": [
+        "Se suponía que eso era dulce, ¿verdad?",
+        "Te quiero, pero esa frase se ha perdido.",
+        "El sentimiento estaba ahí. Las palabras necesitaban ayuda.",
+        "Eso casi me derrite el corazón. Casi.",
+        "Has intentado ser romántico. Te reconozco el valor."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Eso ha sido dulce. Diría que no tiene precio, pero ya me conoces.",
+        "Me haces sentir valorado, y no lo digo a la ligera.",
+        "Me gusta cuando eres delicado conmigo. Es algo poco común.",
+        "Eso vale más que un bolsillo lleno de esmeraldas.",
+        "Sigues dándome motivos para ser menos egoísta. Qué incómodo."
+      ],
+      "fail": [
+        "Se suponía que eso era dulce, ¿no? El valor no estaba claro.",
+        "Te quiero, pero eso necesita una valoración mejor.",
+        "La intención era buena. La entrega estaba... rebajada.",
+        "Eso casi ha sonado romántico. Hasta rentable.",
+        "Lo has intentado. No te cobraré por ello."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Eso ha sido dulce. He decidido no quejarme.",
+        "Sigues sabiendo cómo arruinar un buen mal humor.",
+        "Vale. Eso me ha hecho sentir cariño.",
+        "Odio lo fácil que te resulta ablandarme.",
+        "Otra vez mostrando amabilidad. Funciona demasiado bien."
+      ],
+      "fail": [
+        "Se suponía que eso era dulce, ¿verdad?",
+        "Te quiero, pero eso ha sonado como una patata al caer.",
+        "La idea estaba bien. Las palabras necesitan vigilancia.",
+        "Eso casi ha funcionado. No lo celebres.",
+        "Lo has intentado. Te concedo eso."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Eso ha sido dulce. Dejaré que me afecte.",
+        "Sigues sabiendo cómo ablandarme. Qué talento tan molesto.",
+        "Me gusta cuando eres delicado conmigo. No lo repitas.",
+        "Eso casi hace que diga algo demasiado sincero.",
+        "Se te da muy bien atravesar mis defensas."
+      ],
+      "fail": [
+        "¿Eso debía ser dulce? Lo has disimulado bien.",
+        "Te quiero, pero ha sido un intento flojo.",
+        "Prueba otra vez sin parecer que negocias con una valla.",
+        "Eso casi ha funcionado. Luego se perdió.",
+        "La intención estaba bien. La ejecución ha sido trágica."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Sigues sabiendo dónde colocar tu amabilidad.",
+        "Eso ha sido delicado. He aprendido a valorarlo mucho.",
+        "Haces que el amor parezca estable, no frágil.",
+        "Confío en la forma en que cuidas de mí.",
+        "Eso me ha llegado en silencio. Esas cosas suelen durar más."
+      ],
+      "fail": [
+        "Sé que tu corazón estaba en el lugar correcto. Las palabras se desviaron.",
+        "Eso casi ha sido tierno. Casi.",
+        "He entendido mejor el sentimiento que la frase.",
+        "Querías hacerlo bien. Me quedaré con esa parte.",
+        "Eso necesitaba un poco más de cuidado antes de llegar."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Sigues sabiendo cómo llegar a mi parte más sensible.",
+        "Eso ha sido delicado. Confío más cuando viene de ti.",
+        "Me haces sentir seguridad de una forma que no sabía que necesitaba.",
+        "Ese tipo de amor merece ser protegido.",
+        "Me enfrentaría a todo por una vida que se sintiera así."
+      ],
+      "fail": [
+        "Sé que querías hacerlo bien, pero has fallado.",
+        "Se suponía que eso era dulce. Se notaba. Apenas.",
+        "Te quiero, pero ha aterrizado un poco mal.",
+        "El corazón estaba ahí. La puntería no.",
+        "Prueba otra vez. Sé que puedes decirlo mejor."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Ha sido horrible. Me casé contigo, así que supongo que es culpa mía.",
+        "Odio seguir riéndome de tus chistes.",
+        "Me haces reír incluso cuando intento evitarlo.",
+        "El chiste era terrible, pero tu cara lo ha salvado.",
+        "Sabía dónde me metía y aun así me quedé."
+      ],
+      "fail": [
+        "Te quiero, pero no puedo apoyar ese chiste.",
+        "No ha sido tu mejor trabajo. Ni el segundo mejor.",
+        "Voy a fingir que no he oído eso.",
+        "Ese chiste duerme fuera esta noche.",
+        "Tienes suerte de que el matrimonio no dependa de la comedia."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ha sido una tontería. Odio que haya funcionado.",
+        "Me has hecho reír antes de poder esconderlo.",
+        "Ya debería estar acostumbrado a tus chistes, pero no.",
+        "Ha sido terrible. No pongas esa cara de orgullo.",
+        "Me encanta cuando me haces reír así."
+      ],
+      "fail": [
+        "Creo que me perdí el chiste y encontré la parte incómoda.",
+        "Creo que eso nos ha incomodado a ambos.",
+        "Te quiero, pero no puedo reírme de eso con la conciencia tranquila.",
+        "Quizá ese chiste necesite un lugar tranquilo para recuperarse.",
+        "Quería reírme. De verdad."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Ha sido ridículo. Ven aquí antes de que cambie de opinión.",
+        "Tienes suerte de que me parezcas encantador.",
+        "Me casé contigo, así que tus malos chistes también son míos.",
+        "El chiste era horrible, pero tu sonrisa lo ha salvado.",
+        "Me haces reír de las formas más injustas."
+      ],
+      "fail": [
+        "Te quiero demasiado para mentir y decir que ha tenido gracia.",
+        "Ese chiste necesitaba romance, estructura y quizá un nuevo comienzo.",
+        "Sigues siendo atractivo. El chiste no.",
+        "Creo que el final se fue antes de que terminaras.",
+        "No ha sido tu mejor trabajo, cariño."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Esa risa ha sido gratis. No se lo cuentes a nadie.",
+        "Me casé contigo, así que tus malos chistes forman parte del contrato.",
+        "Ha sido una tontería. Aun así, me siento más rico por oírlo.",
+        "Tienes suerte de que me parezcas encantador cuando haces el ridículo.",
+        "El chiste no valía nada, pero tu cara lo ha compensado."
+      ],
+      "fail": [
+        "Quiero un reembolso y ni siquiera he pagado.",
+        "Ese final ha sido un mal trato.",
+        "Te quiero, pero ese chiste no entra en casa.",
+        "Eso vale menos que una zanahoria dañada.",
+        "La próxima vez invierte en un comienzo mejor."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Ha sido una tontería. Me he reído. Odio este matrimonio.",
+        "No le cuentes a nadie que disfruto de tus chistes.",
+        "Me casé contigo, así que supongo que merezco este castigo.",
+        "Ha sido horrible. Repítelo luego.",
+        "Tienes suerte de que me gusten tus tonterías."
+      ],
+      "fail": [
+        "No.",
+        "Ese chiste debería avergonzarse.",
+        "Te quiero, pero me niego a reírme de eso.",
+        "Eso no era un chiste. Era ruido con confianza.",
+        "He oído mejor ritmo en un yunque cayendo."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Ha sido una tontería. Odio haberme reído.",
+        "Tienes suerte de que me resultes entretenido.",
+        "Me casé contigo, así que tus malos chistes son mi problema.",
+        "El chiste era horrible. Tu confianza lo ha salvado.",
+        "Tienes más gracia cuando no lo intentas. Por desgracia, cuenta."
+      ],
+      "fail": [
+        "No. Ni hablar.",
+        "Ese chiste merecía un público peor.",
+        "Te quiero, pero no voy a premiar eso.",
+        "Ha sido vergonzoso, y yo solo estaba cerca.",
+        "Prueba otra vez cuando el final tenga motivo para existir."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Ha sido una tontería. Me alegra haberme casado con alguien así.",
+        "Todavía me sorprendes. Normalmente a costa de la dignidad.",
+        "Una risa contigo rara vez se desperdicia.",
+        "Eso no ha sido sabio. Pero sí efectivo.",
+        "Haces que la seriedad parezca sobrevalorada."
+      ],
+      "fail": [
+        "Ese chiste me ha enseñado paciencia.",
+        "Te quiero, pero no ha sido uno de tus mejores momentos.",
+        "El chiste tenía un destino. No llegó.",
+        "Algunas ideas es mejor dejarlas sin cocinar.",
+        "Ha sido memorable, aunque no por el motivo que querías."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Ha sido ridículo. Me alegra escuchar tus tonterías de cerca.",
+        "Me has hecho reír cuando intentaba parecer serio.",
+        "Me casé contigo, así que tus malos chistes son parte de la aventura.",
+        "Ese chiste no tenía miedo. Sentido tampoco, pero miedo no.",
+        "Tienes suerte de que tus tonterías me parezcan encantadoras."
+      ],
+      "fail": [
+        "Ese chiste entró en batalla y cayó al instante.",
+        "Te quiero, pero no puedo defender ese.",
+        "Ha sido valiente. Poco más, pero valiente.",
+        "El final te ha abandonado.",
+        "Prueba otra vez cuando el chiste haya entrenado un poco."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Un poco de burla está bien. Sé lo que sientes.",
+        "Puedes ser difícil, pero eres mi problema.",
+        "Ha sido duro, pero sé que no querías hacer daño.",
+        "Supongo que también me casé con tu actitud.",
+        "Tienes suerte de que conozco la parte suave bajo ese tono."
+      ],
+      "fail": [
+        "Eso no ha parecido una broma.",
+        "No me hables como si no estuviera de tu lado.",
+        "Te quiero, pero eso ha dolido.",
+        "Podemos ser sinceros sin ser crueles.",
+        "Necesito que seas más amable conmigo."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Ha sido duro, pero conozco mejor tu corazón que tu tono.",
+        "Un poco de burla está bien. Confío en ti.",
+        "Puedes hablarme claro. Solo no te pases.",
+        "Me ha asustado, pero sé que no querías hacer daño.",
+        "Supongo que también me casé con tus asperezas."
+      ],
+      "fail": [
+        "Por favor, no hagas que me sienta pequeño.",
+        "Ha dolido más porque venía de ti.",
+        "Confío en ti con mi corazón. Trátalo con cuidado.",
+        "Sé que estamos unidos, pero eso ha cruzado la línea.",
+        "Necesito delicadeza de ti, incluso cuando te enfadas."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Ha sido duro. Supongo que también me casé con tu lado afilado.",
+        "Tienes suerte de que me guste un poco de peligro.",
+        "Un poco de malicia puede resultar interesante.",
+        "Sigues sabiendo cómo ponerme a prueba.",
+        "Ese tono molestaría más si no me gustaras tanto."
+      ],
+      "fail": [
+        "No conviertas el cariño en un arma.",
+        "Me encanta tu fuego. No que me queme.",
+        "Eso no ha sido una broma. Ha sido un descuido.",
+        "Te dejé acercarte lo suficiente para herirme. No me hagas arrepentirme.",
+        "Hay formas más suaves de decir la verdad."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Un poco de dureza mantiene interesante el mercado.",
+        "Ha sido atrevido. Me casé con eso por algo.",
+        "Negocias duro, incluso con mi paciencia.",
+        "Ese tono molestaría más si no disfrutara de tu atención.",
+        "Cuidado. Puede que empiece a cobrar por disfrutarlo tanto."
+      ],
+      "fail": [
+        "Eso ha sido barato. Esperaba algo mejor.",
+        "No gastes mi confianza como si no valiera nada.",
+        "Me gusta un buen trato, no un golpe bajo.",
+        "Eso te ha costado más de lo que crees.",
+        "No deberías hacerme sentir como un mal trato."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Bien. Me casé con alguien con carácter.",
+        "Un poco de malicia evita el aburrimiento.",
+        "Ha sido duro. Puedo respetarlo.",
+        "Te estás atreviendo conmigo. No lo odio.",
+        "Eso me molestaría si viniera de otra persona."
+      ],
+      "fail": [
+        "No me provoques solo porque te quiero.",
+        "Eso no ha sido una broma. Ha sido una estupidez.",
+        "Me gusta la sinceridad. No que me ataquen por diversión.",
+        "Has cruzado la línea. No lo conviertas en costumbre.",
+        "Me casé contigo, no con tu peor actitud."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Ahí está. Me casé con alguien con garras.",
+        "Bien. Temía que te estuvieras ablandando.",
+        "Ha sido duro. Me habría decepcionado lo contrario.",
+        "Sigues sabiendo cómo mantener mi interés.",
+        "No está mal. Casi parecía que podías ganar."
+      ],
+      "fail": [
+        "Eso no ha sido afilado. Ha sido torpe.",
+        "No confundas crueldad con inteligencia.",
+        "Si vas a provocarme, hazlo bien.",
+        "Eso no está a tu altura. Por desgracia, lo he notado.",
+        "Me casé con tu fuego, no con tu descuido."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Una verdad dura puede seguir siendo amorosa si se trata con cuidado.",
+        "Ha sido duro, pero conozco la mano que lo sostiene.",
+        "Me desafías porque confías en que responderé.",
+        "No me molesta tu carácter mientras tu corazón siga conmigo.",
+        "Ha sido atrevido. Siempre me ha gustado eso de ti."
+      ],
+      "fail": [
+        "No dejes que la confianza te vuelva descuidado conmigo.",
+        "Me conoces lo suficiente para saber que eso dolería.",
+        "El amor no hace inofensiva la dureza.",
+        "Acepto la verdad. No la crueldad disfrazada de verdad.",
+        "Eso está por debajo de lo que hemos construido."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Bien. Me casé con alguien que sabe mantenerse firme.",
+        "Ha sido duro, pero sé que tu corazón sigue conmigo.",
+        "No me importa que me desafíe quien más confianza me da.",
+        "Ese fuego es parte de por qué te elegí.",
+        "Sabes responder. Respeto eso."
+      ],
+      "fail": [
+        "No confundas cercanía con permiso para herirme.",
+        "Eso no ha sido fuerza. Ha sido descuido.",
+        "Puedo aceptar una verdad dura, pero no una descuidada.",
+        "Te quiero, pero no voy a dejar pasar eso.",
+        "Si somos un equipo, háblame como tal."
+      ]
+    }
+  },
+  "Flirt": {
+    "friendly": {
+      "lines": [
+        "Sigues sabiendo cómo hacerme olvidar qué estaba haciendo.",
+        "Eso ha funcionado demasiado bien para alguien con quien ya me casé.",
+        "Sigue hablando así y dejaré de fingir que tengo cosas que hacer.",
+        "Me gusta cómo me miras, como si aún no creyeras que soy tuyo.",
+        "Sigue así y esta conversación va a distraernos mucho."
+      ],
+      "fail": [
+        "Te quiero, pero no ha sido tu momento más elegante.",
+        "Ha sido adorable. Seductor no, pero adorable.",
+        "Tienes suerte de que ya estemos casados.",
+        "Esa frase ha tropezado con el anillo.",
+        "Prueba otra vez, con menos seguridad y más puntería."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Sigues haciendo que olvide cómo actuar con normalidad.",
+        "Estoy casado contigo y aun así consigues ponerme nervioso.",
+        "Dilo otra vez y quizá esta vez te mire a los ojos.",
+        "Me gusta cuando me hablas así. Más de lo que sé expresar.",
+        "Sabes exactamente lo que eso me provoca, ¿verdad?"
+      ],
+      "fail": [
+        "Eso ha sido demasiado. Incluso viniendo de ti.",
+        "Te quiero, pero esa frase ha llegado de golpe.",
+        "Me has puesto nervioso, pero no como querías.",
+        "Prueba otra vez con menos caos.",
+        "Creo que necesito un momento después de eso."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Sigues sabiendo cómo hacerme olvidar todo lo demás.",
+        "Dilo otra vez y será difícil fingir que esta charla es normal.",
+        "Eso ha sido muy injusto. Me ha gustado.",
+        "Me casé contigo y todavía siento que me enamoro otra vez.",
+        "Sigue mirándome así y olvidaré qué iba a decir."
+      ],
+      "fail": [
+        "Eso casi ha sido elegante, cariño.",
+        "Te quiero, pero esa frase se ha roto con estilo.",
+        "Intentabas ser peligroso y has acabado siendo adorable.",
+        "No ha sido seductor, pero ha sido muy propio de ti.",
+        "Prueba otra vez. Sé que puedes hacerlo mejor."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Eso ha sido bueno. Muy bueno. Quizá cobre intereses.",
+        "Sigues sabiendo cómo hacerme olvidar qué estaba contando.",
+        "Me gusta ese tono. Dan ganas de tomar malas decisiones financieras.",
+        "Sigue así y quizá empiece a llamarte algo sin precio.",
+        "Esa merece guardarse. Como tú."
+      ],
+      "fail": [
+        "Ha sido una inversión arriesgada con poco beneficio.",
+        "Te quiero, pero esa frase perdió valor muy rápido.",
+        "Intentabas ser elegante y has acabado en bancarrota.",
+        "No ha sido tu mejor oferta.",
+        "Prueba otra vez. Sé que tienes algo mejor."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Eso ha sido irritantemente bueno.",
+        "Estás disfrutando demasiado de esto.",
+        "No me mires así. Intento seguir de mal humor.",
+        "Vale. Ha funcionado. ¿Contento?",
+        "Sigues sabiendo cómo hacerme perder una discusión."
+      ],
+      "fail": [
+        "Ha sido terrible. Me da vergüenza por ambos.",
+        "Te quiero, pero no.",
+        "Esa frase debería olvidarse detrás del granero.",
+        "Intentabas tener encanto y te has convertido en un peligro público.",
+        "Prueba otra vez cuando tu boca coopere."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Ha sido mejor de lo esperado. Odio darte mérito.",
+        "Sabes exactamente cómo meterte bajo mi piel.",
+        "Sigue hablando así y quizá empiece a portarme mal.",
+        "Estás muy orgulloso. Puede que te lo permita.",
+        "Ha funcionado. No hagas que lo admita dos veces."
+      ],
+      "fail": [
+        "Eso ha sido doloroso, cariño.",
+        "Intentabas ser peligroso y has acabado decorativo.",
+        "Te quiero, pero esa frase debería retirarse.",
+        "Eso no ha sido seducción. Ha sido un incidente.",
+        "Prueba otra vez cuando tu seguridad tenga pruebas."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Sigues sabiendo cómo romper mi calma.",
+        "Ha sido directo. Aprecio eso cuando viene de ti.",
+        "Te conozco lo suficiente para saber qué estás haciendo.",
+        "Haces que la sabiduría parezca un poco sobrevalorada.",
+        "Esa mirada ya me habría desarmado antes de casarnos."
+      ],
+      "fail": [
+        "Eso casi ha tenido encanto. Luego perdió el equilibrio.",
+        "Te quiero, pero todavía podrías estudiar el ritmo.",
+        "La intención estaba clara. El método menos.",
+        "No ha sido tu mejor intento de tentación.",
+        "Prueba otra vez cuando tus palabras sean tan firmes como tus sentimientos."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Eso todavía atraviesa mi armadura.",
+        "Lo dices como si supieras dónde está mi punto débil.",
+        "He enfrentado monstruos que impresionaban menos que esa mirada.",
+        "Sigue así y olvidaré que estábamos hablando.",
+        "Todavía haces que mi corazón olvide todo lo que sabe del peligro."
+      ],
+      "fail": [
+        "Ha sido atrevido. Lo demás necesita trabajo.",
+        "Te quiero, pero ese enfoque necesita un plan mejor.",
+        "Has vuelto a lanzarte. Muy heroico. Muy torpe.",
+        "No ha sido tu mejor jugada.",
+        "Prueba otra vez cuando tu valor y tu ritmo estén de acuerdo."
+      ]
+    }
+  }
+}

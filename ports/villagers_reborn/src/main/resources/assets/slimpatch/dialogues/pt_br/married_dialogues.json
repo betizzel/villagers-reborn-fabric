@@ -1,0 +1,596 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Oi, meu amor.",
+        "Aí está você, querido(a).",
+        "Gosto de como parece tão normal estar perto de você agora.",
+        "Você faz até os momentos de silêncio da vida parecerem bons.",
+        "Eu ainda sorrio antes mesmo de saber o que vou te dizer."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Oi, meu amor.",
+        "Ei... querido(a).",
+        "Eu ainda fico nervosa(o) perto de você. Acho que gosto dessa parte.",
+        "Estar tão perto de você parece mais fácil agora, mas não menos especial.",
+        "Eu amo os momentos de silêncio com você. Eles parecem seguros."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Olá, amado(a).",
+        "Aí está você, meu amor.",
+        "Eu ainda gosto da sensação do mundo quando você está por perto.",
+        "Ser sua não te tornou menos uma distração.",
+        "Pensei que o casamento pudesse acalmar esse sentimento. Não acalmou."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Olá, meu tesouro.",
+        "Aí está você, querido(a).",
+        "Eu ainda acho que casar com você foi meu melhor investimento.",
+        "Você é péssima(o) para meu foco e excelente para meu humor.",
+        "Eu costumava contar esmeraldas. Agora eu perco a conta quando você está perto."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Oi, amor. Tente não parecer tão satisfeito(a) com isso.",
+        "Aí está você. Ótimo.",
+        "Eu estava confortável. Aí você apareceu e me fez mais feliz. Rude.",
+        "Você ainda é meu problema favorito.",
+        "Suponho que ser casado(a) com você não seja a pior coisa que já me aconteceu."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Olá, amado(a). Tente não ficar tão convencido(a) com isso.",
+        "Aí está você. Suponho que eu estava começando a gostar menos do silêncio.",
+        "Você ainda é problema. Felizmente, tenho um gosto excelente para problemas.",
+        "Eu me casei com você, então suponho que eu seja responsável por isso agora.",
+        "Não olhe para mim assim, a menos que pretenda fazer valer o meu tempo."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Olá, meu amor.",
+        "Aí está você, querido(a).",
+        "Eu ainda encontro paz em estar perto de você.",
+        "O casamento não te tornou menos fascinante. Só me deu mais tempo para notar.",
+        "Alguns dias parecem mais fáceis simplesmente porque você faz parte deles."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Olá, amor.",
+        "Aí está você, meu coração.",
+        "Eu ainda me sinto mais forte com você ao meu lado.",
+        "O que quer que aconteça a seguir, estou feliz que seja com você.",
+        "Ser casado(a) com você parece a escolha mais corajosa que já fiz."
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Você ainda sabe exatamente como me fazer sentir amada(o).",
+        "Isso foi doce. Espero que saiba que nunca me canso disso.",
+        "Gosto de ser cuidado(a) por você. A sensação é diferente.",
+        "Você faz com que o lar pareça uma pessoa, não um lugar.",
+        "Isso me fez sentir sortuda(o). Falo sério."
+      ],
+      "fail": [
+        "Isso foi doce de uma maneira muito confusa.",
+        "Eu sei o que você quis dizer. As palavras apenas fizeram o caminho mais longo.",
+        "Isso quase soou romântico. Quase.",
+        "Eu te amo, mas essa frase precisa de ajuda.",
+        "Você tentou. Estou escolhendo achar isso charmoso."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Você sempre sabe como me fazer sentir segura(o).",
+        "Isso foi doce. Eu ainda não sei como te responder direito.",
+        "Gosto quando você é gentil comigo. Parece um lar.",
+        "Você torna mais fácil dizer o que sinto.",
+        "Isso me fez sentir amada(o) da maneira mais suave."
+      ],
+      "fail": [
+        "Eu sei que você quis ser gentil. Eu apenas me atrapalhei um pouco.",
+        "Isso foi doce, mas acho que meu cérebro fugiu disso.",
+        "Eu queria responder melhor, mas você me pegou desprevenida(o).",
+        "Isso quase funcionou. Talvez eu precise de um segundo.",
+        "Eu te amo, mas isso saiu um pouco confuso."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Você ainda sabe como me fazer sentir escolhida(o).",
+        "Isso foi doce. Espero que você nunca pare de dizer coisas assim.",
+        "Eu amo quando você é gentil comigo. Faz todo o resto desaparecer um pouco.",
+        "Você faz palavras comuns soarem como promessas.",
+        "Isso me lembrou por que te dei meu coração em primeiro lugar."
+      ],
+      "fail": [
+        "Isso deveria ser doce, não deveria?",
+        "Eu te amo, mas essa frase se perdeu.",
+        "O sentimento estava lá. As palavras precisavam de ajuda.",
+        "Isso quase fez meu coração derreter. Quase.",
+        "Você tentou ser romântico(a). Vou te dar crédito pela coragem."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Isso foi doce. Eu chamaria de inestimável, mas você sabe como me sinto sobre preços.",
+        "Você me faz sentir valorizada(o), e não digo isso levianamente.",
+        "Gosto quando você é suave comigo. Parece algo raro.",
+        "Isso valeu mais do que um bolso cheio de esmeraldas.",
+        "Você continua me dando motivos para ser menos egoísta. Muito inconveniente."
+      ],
+      "fail": [
+        "Isso deveria ser doce, sim? O valor não ficou claro.",
+        "Eu te amo, mas essa precisa de uma avaliação melhor.",
+        "A intenção foi boa. A entrega foi... com desconto.",
+        "Isso quase soou romântico. Quase lucrativo, até.",
+        "Você tentou. Não vou te cobrar pela tentativa."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi doce. Estou escolhendo não reclamar.",
+        "Você ainda sabe como arruinar um mau humor perfeitamente bom.",
+        "Certo. Isso me fez sentir amada(o).",
+        "Odeio como você consegue me suavizar com facilidade.",
+        "Você está sendo gentil de novo. É suspeitosamente eficaz."
+      ],
+      "fail": [
+        "Isso deveria ser doce, não deveria?",
+        "Eu te amo, mas isso saiu como uma batata caída.",
+        "O pensamento foi bom. As palavras precisam de supervisão.",
+        "Isso quase funcionou. Não comemore.",
+        "Você tentou. Vou te dar esse crédito."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso foi doce. Estou escolhendo deixar que isso me afete.",
+        "Você ainda sabe como me suavizar. Talento irritante.",
+        "Gosto quando você é gentil comigo. Não repita isso.",
+        "Isso quase me fez dizer algo embaraçosamente sincero.",
+        "Você é muito boa(o) em ultrapassar minhas defesas."
+      ],
+      "fail": [
+        "Isso deveria ser doce? Você escondeu bem.",
+        "Eu te amo, mas isso foi uma tentativa fraca.",
+        "Tente de novo sem parecer que está negociando com uma cerca.",
+        "Isso quase funcionou. Então se perdeu.",
+        "A intenção foi boa. A execução foi trágica."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Você ainda sabe onde colocar sua gentileza.",
+        "Isso foi gentil. Aprendi a valorizar isso em você.",
+        "Você faz o amor parecer firme, não frágil.",
+        "Confio na maneira como você cuida de mim.",
+        "Isso me tocou silenciosamente. Essas coisas costumam durar mais."
+      ],
+      "fail": [
+        "Eu sei que seu coração estava no lugar certo. As palavras erraram o caminho.",
+        "Isso foi quase terno. Quase.",
+        "Entendi mais o sentimento do que a frase.",
+        "Você quis dizer bem. Vou me segurar nessa parte.",
+        "Isso precisava de um pouco mais de cuidado antes de chegar em mim."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Você ainda sabe como alcançar a parte mais suave de mim.",
+        "Isso foi gentil. Confio mais na gentileza quando vem de você.",
+        "Você me faz sentir segura(o) de uma maneira que eu não sabia que precisava.",
+        "Esse tipo de amor vale a pena proteger.",
+        "Eu enfrentaria qualquer coisa por uma vida que parece com isso."
+      ],
+      "fail": [
+        "Eu sei que você quis dizer bem, mas essa falhou.",
+        "Isso deveria ser doce. Deu para perceber. Mal.",
+        "Eu te amo, mas essa caiu um pouco grosseira.",
+        "O coração estava lá. A pontaria não.",
+        "Tente de novo. Sei que você pode dizer melhor."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Isso foi horrível. Me casei com você mesmo assim, então suponho que seja minha culpa.",
+        "Odeio o fato de ainda rir das suas piadas.",
+        "Você me faz rir mesmo quando estou tentando não rir.",
+        "Essa piada foi terrível, mas seu rosto fez valer a pena.",
+        "Eu sabia no que estava me metendo e, de alguma forma, ainda fiquei."
+      ],
+      "fail": [
+        "Eu te amo, mas não posso apoiar essa piada.",
+        "Esse não foi seu melhor trabalho. Nem seu trabalho mediano.",
+        "Vou fingir que não ouvi isso.",
+        "Essa piada precisa dormir do lado de fora hoje à noite.",
+        "Você tem sorte que o casamento não se baseia em comédia."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Isso foi tão bobo. Odeio que tenha funcionado.",
+        "Você me fez rir antes que eu pudesse esconder.",
+        "Eu já deveria estar acostumada(o) com suas piadas, mas de alguma forma não estou.",
+        "Isso foi terrível. Por favor, não pareça tão orgulhoso(a).",
+        "Eu amo quando você me faz rir assim."
+      ],
+      "fail": [
+        "Acho que perdi a piada e encontrei a parte embaraçosa em vez disso.",
+        "Essa deixou nós dois desconfortáveis, eu acho.",
+        "Eu te amo, mas não posso rir disso de consciência limpa.",
+        "Talvez essa piada precise de um lugar silencioso para se recuperar.",
+        "Eu queria rir. Eu realmente queria."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Isso foi ridículo. Venha aqui antes que eu mude de ideia sobre rir.",
+        "Você tem sorte de eu te achar charmoso(a).",
+        "Eu me casei com você, então suponho que suas piadas terríveis sejam legalmente minhas agora.",
+        "Essa piada foi horrível, mas seu sorriso salvou ela.",
+        "Você me faz rir das formas mais injustas."
+      ],
+      "fail": [
+        "Eu te amo demais para mentir e dizer que isso foi engraçado.",
+        "Essa piada precisava de romance. E estrutura. E talvez um novo começo.",
+        "Você ainda é atraente. A piada não é.",
+        "Acho que o final da piada foi embora antes que você terminasse de falar.",
+        "Esse não foi seu melhor trabalho, amado(a)."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Essa risada foi de graça. Não conte a ninguém.",
+        "Eu me casei com você, então suponho que suas piadas terríveis façam parte do contrato.",
+        "Isso foi estúpido. De alguma forma, ainda me sinto mais rico(a) por ter ouvido.",
+        "Você tem sorte de eu te achar charmoso(a) quando você é ridículo(a).",
+        "Essa piada não teve valor, mas seu rosto compensou a diferença."
+      ],
+      "fail": [
+        "Quero um reembolso por essa piada, e eu nem paguei.",
+        "Esse final foi um mau negócio.",
+        "Eu te amo, mas essa piada não vai entrar na nossa casa.",
+        "Isso valeu menos que uma cenoura estragada.",
+        "Da próxima vez, invista em uma preparação melhor."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi estúpido. Eu ri. Odeio esse casamento.",
+        "Não conte a ninguém que eu gosto das suas piadas.",
+        "Eu me casei com você, então suponho que mereci esse castigo.",
+        "Isso foi horrível. Diga de novo mais tarde.",
+        "Você tem sorte de eu gostar dos seus disparates."
+      ],
+      "fail": [
+        "Não.",
+        "Essa piada deveria se envergonhar de si mesma.",
+        "Eu te amo, mas me recuso a rir disso.",
+        "Isso não foi uma piada. Foi barulho com confiança.",
+        "Já ouvi um tempo melhor vindo de uma bigorna caindo."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso foi estúpido. Odeio ter rido.",
+        "Você tem sorte de eu te achar divertida(o).",
+        "Eu me casei com você, então suponho que suas piadas ruins sejam meu problema agora.",
+        "Essa piada foi horrível. Sua confiança salvou ela.",
+        "Você é mais engraçada(o) quando não está tentando. Infelizmente, isso ainda conta."
+      ],
+      "fail": [
+        "Não. Absolutamente não.",
+        "Essa piada merecia um público pior.",
+        "Eu te amo, mas me recuso a recompensar isso.",
+        "Isso foi embaraçoso, e eu só estava por perto.",
+        "Tente de novo quando o final da piada tiver um motivo para existir."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Isso foi insensato. Fico feliz por ter me casado com alguém insensato da maneira certa.",
+        "Você ainda me surpreende. Geralmente às custas da dignidade.",
+        "Uma risada compartilhada com você raramente é desperdiçada.",
+        "Isso não foi sábio. Foi, no entanto, eficaz.",
+        "Você faz a seriedade parecer superestimada."
+      ],
+      "fail": [
+        "Essa piada me ensinou paciência.",
+        "Eu te amo, mas esse não foi um dos seus momentos mais sábios.",
+        "A piada tinha um destino. Não chegou lá.",
+        "Alguns pensamentos são melhores se não forem cozidos.",
+        "Isso foi memorável, embora não pelo motivo que você esperava."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Isso foi ridículo. Estou feliz por poder ouvir seus disparates de perto.",
+        "Você me fez rir quando eu estava tentando parecer séria(o).",
+        "Eu me casei com você, então suponho que suas piadas terríveis façam parte da aventura.",
+        "Essa piada não teve medo. Nem sentido também, mas não teve medo.",
+        "Você tem sorte de eu achar sua insensatez charmosa."
+      ],
+      "fail": [
+        "Essa piada foi para a batalha e caiu imediatamente.",
+        "Eu te amo, mas não posso defender essa.",
+        "Isso foi corajoso. Muito pouco mais, mas corajoso.",
+        "O final da piada te abandonou.",
+        "Tente de novo quando a piada tiver treinado um pouco."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Um pouco de provocação é bom. Sei onde está seu coração.",
+        "Você pode ser difícil, mas é meu difícil.",
+        "Isso foi afiado, mas sei que você não quis dizer por mal.",
+        "Suponho que me casei com sua atitude também.",
+        "Você tem sorte que eu conheço a parte suave por baixo desse tom."
+      ],
+      "fail": [
+        "Isso não pareceu uma provocação.",
+        "Não fale comigo como se eu não estivesse do seu lado.",
+        "Eu te amo, mas isso ainda doeu.",
+        "Podemos ser honestos sem sermos cruéis.",
+        "Preciso que você seja mais gentil do que isso comigo."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Isso foi afiado, mas conheço seu coração melhor que seu tom.",
+        "Um pouco de provocação é bom. Confio em você.",
+        "Você pode ser direta(o) comigo. Só não direta(o) demais.",
+        "Isso me assustou, mas sei que você não quis dizer por mal.",
+        "Suponho que me casei com suas arestas ásperas também."
+      ],
+      "fail": [
+        "Por favor, não me faça sentir pequena(o).",
+        "Isso doeu mais porque veio de você.",
+        "Confio meu coração a você. Seja cuidadosa(o) com ele.",
+        "Sei que somos próximos, mas isso ainda cruzou uma linha.",
+        "Preciso de gentileza vinda de você, mesmo quando você está chateada(o)."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Isso foi afiado. Suponho que me casei com sua aresta também.",
+        "Você tem sorte que eu gosto de um pouco de perigo.",
+        "Uma pequena mordida vinda de você pode ser interessante.",
+        "Você ainda sabe como me testar.",
+        "Esse tom me irritaria mais se eu não gostasse tanto de você."
+      ],
+      "fail": [
+        "Não transforme ternura em arma.",
+        "Eu amo seu fogo. Não amo ser queimada(o) por ele.",
+        "Isso não foi provocação. Isso foi descuido.",
+        "Deixei você perto o suficiente para me machucar. Por favor, não prove que isso foi insensato.",
+        "Existem maneiras mais suaves de me dizer a verdade."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Um pouco de afiado mantém o mercado interessante.",
+        "Isso foi ousado. Me casei com ousadia por um motivo.",
+        "Você negocia duro, até com minha paciência.",
+        "Esse tom me incomodaria mais se eu não gostasse de possuir sua atenção.",
+        "Cuidado. Posso começar a cobrar pelo quanto gosto disso."
+      ],
+      "fail": [
+        "Isso foi barato. Esperava algo melhor de você.",
+        "Não gaste minha confiança como se ela não fosse nada.",
+        "Eu amo uma boa negociação, não um golpe baixo.",
+        "Isso te custou mais do que você pensa.",
+        "Você não deveria me fazer sentir como uma troca ruim."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Bom. Me casei com alguém com espinha dorsal.",
+        "Uma pequena mordida evita que as coisas fiquem chatas.",
+        "Isso foi afiado. Posso respeitar afiado.",
+        "Você está ficando ousada(o) comigo. Não odeio isso.",
+        "Isso me irritaria se viesse de qualquer outra pessoa."
+      ],
+      "fail": [
+        "Não me empurre só porque eu te amo.",
+        "Isso não foi provocação. Isso foi insensato.",
+        "Gosto de honestidade. Não gosto de ser cutucada(o) por esporte.",
+        "Você perdeu a linha. Tente não fazer disso um hábito.",
+        "Me casei com você, não com sua pior atitude."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Aí está. Me casei com alguém com garras.",
+        "Bom. Eu estava preocupada(o) que você estivesse ficando mole demais.",
+        "Isso foi afiado. Eu teria ficado decepcionada(o) se não fosse.",
+        "Você ainda sabe como me manter interessada(o).",
+        "Nada mal. Você quase pareceu capaz de vencer isso."
+      ],
+      "fail": [
+        "Isso não foi afiado. Isso foi desleixado.",
+        "Não confunda ser cruel com ser inteligente.",
+        "Se você vai me provocar, faça isso direito.",
+        "Isso foi abaixo de você. Infelizmente, eu notei.",
+        "Me casei com seu fogo, não com seu descuido."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Uma verdade dura ainda pode ser amorosa, quando segurada com cuidado.",
+        "Isso foi afiado, mas conheço a mão que segurou isso.",
+        "Você me desafia porque confia que eu responda.",
+        "Não me importo com sua aresta quando seu coração ainda está comigo.",
+        "Isso foi ousado. Sempre gostei disso em você."
+      ],
+      "fail": [
+        "Não deixe a familiaridade te fazer descuidar de mim.",
+        "Você me conhece bem o suficiente para saber que isso doeria.",
+        "O amor não torna a aspereza inofensiva.",
+        "Posso aceitar a verdade. Não aceitarei crueldade vestida de verdade.",
+        "Isso foi abaixo do vínculo que construímos."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Bom. Me casei com alguém que sabe se posicionar.",
+        "Isso foi afiado, mas sei que seu coração ainda está comigo.",
+        "Não me importo com um desafio vindo da pessoa que mais confio.",
+        "Esse fogo em você é parte do motivo de eu ter te escolhido.",
+        "Você revida. Respeito isso."
+      ],
+      "fail": [
+        "Não confunda proximidade com permissão para me ferir.",
+        "Isso não foi força. Isso foi descuido.",
+        "Posso aceitar uma verdade dura, mas não uma descuidada.",
+        "Eu te amo, mas não deixarei isso passar.",
+        "Se somos um time, fale comigo como tal."
+      ]
+    }
+  },
+  "Flirt": {
+    "friendly": {
+      "lines": [
+        "Você ainda sabe como me fazer esquecer o que eu estava fazendo.",
+        "Isso funcionou muito bem para alguém com quem já me casei.",
+        "Diga coisas assim e eu posso parar de fingir que estou ocupada(o).",
+        "Gosto quando você olha para mim como se ainda não pudesse acreditar que sou sua.",
+        "Continue assim e essa conversa vai ficar muito distrativa."
+      ],
+      "fail": [
+        "Eu te amo, mas esse não foi seu momento mais suave.",
+        "Isso foi adorável. Não sedutor, mas adorável.",
+        "Você tem sorte que já estou comprometida(o).",
+        "Essa frase tropeçou na aliança de casamento.",
+        "Tente de novo, mas com menos confiança e mais precisão."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Você ainda me faz esquecer como agir normalmente.",
+        "Sou casada(o) com você e você ainda consegue me deixar nervosa(o).",
+        "Diga isso de novo e talvez eu realmente olhe nos seus olhos desta vez.",
+        "Gosto quando você fala comigo assim. Mais do que posso dizer adequadamente.",
+        "Você sabe exatamente o que isso faz comigo, não sabe?"
+      ],
+      "fail": [
+        "Isso foi muito. Mesmo para você.",
+        "Eu te amo, mas essa frase chegou muito de repente.",
+        "Você me deixou nervosa(o), mas não do jeito que planejou.",
+        "Talvez tente isso de novo com menos caos.",
+        "Acho que preciso de um momento depois dessa."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Você ainda sabe exatamente como me fazer esquecer o resto do quarto.",
+        "Diga isso de novo e talvez eu tenha dificuldade em fingir que estamos tendo uma conversa normal.",
+        "Isso foi muito injusto da sua parte. Gostei.",
+        "Eu me casei com você, e de alguma forma você ainda me faz sentir como se estivesse me apaixonando por você.",
+        "Continue olhando para mim assim e vou esquecer o que eu estava prestes a dizer."
+      ],
+      "fail": [
+        "Isso foi quase suave, amado(a).",
+        "Eu te amo, mas essa frase desmoronou lindamente.",
+        "Você tentou ser perigosa(o) e se tornou adorável em vez disso.",
+        "Isso não foi sedutor, mas foi muito a sua cara.",
+        "Tente de novo. Sei que você pode fazer melhor do que isso."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Isso foi bom. Muito bom. Talvez eu precise cobrar juros.",
+        "Você ainda sabe como me fazer esquecer o que eu estava contando.",
+        "Gosto desse tom. Ele me faz querer tomar decisões financeiras muito ruins.",
+        "Se você continuar falando assim, talvez eu comece a te chamar de inestimável.",
+        "Essa valeu a pena guardar. Como você."
+      ],
+      "fail": [
+        "Esse foi um investimento arriscado com retornos ruins.",
+        "Eu te amo, mas essa frase depreciou rapidamente.",
+        "Você tentou ser suave e acabou ficando levemente falido(a).",
+        "Essa não foi sua melhor oferta.",
+        "Tente de novo. Sei que você tem produtos melhores do que isso."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi irritantemente bom.",
+        "Você está se divertindo demais.",
+        "Não olhe para mim assim. Estou tentando ficar irritada(o).",
+        "Certo. Isso funcionou. Feliz?",
+        "Você ainda sabe exatamente como me fazer perder meu argumento."
+      ],
+      "fail": [
+        "Isso foi terrível. Estou envergonhada(o) por nós dois.",
+        "Eu te amo, mas não.",
+        "Essa frase precisa ser levada para trás do celeiro e esquecida.",
+        "Você tentou ser charmoso(a) e se tornou um perigo público.",
+        "Tente de novo quando sua boca estiver cooperando."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso foi melhor do que eu esperava. Odeio te dar crédito.",
+        "Você sabe exatamente como me irritar.",
+        "Diga coisas assim e eu posso começar a me comportar mal.",
+        "Você está muito satisfeita(o) consigo mesma(o). Talvez eu permita isso.",
+        "Isso funcionou. Não me faça admitir isso duas vezes."
+      ],
+      "fail": [
+        "Isso foi doloroso, amado(a).",
+        "Você tentou ser perigosa(o) e se tornou decorativa(o).",
+        "Eu te amo, mas essa frase deveria ser aposentada.",
+        "Isso não foi sedução. Isso foi um incidente.",
+        "Tente de novo quando sua confiança tiver evidências."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Você ainda sabe como perturbar minha compostura.",
+        "Isso foi direto. Apreciei a franqueza vinda de você.",
+        "Conheço você há tempo suficiente para ver exatamente o que você está fazendo.",
+        "Você faz a sabedoria parecer levemente superestimada.",
+        "Esse olhar teria me desfeito mesmo antes de eu me casar com você."
+      ],
+      "fail": [
+        "Isso foi quase charmoso. Então perdeu o equilíbrio.",
+        "Eu te amo, mas o tempo continua sendo um assunto que você poderia estudar.",
+        "A intenção foi clara. O método foi menos convincente.",
+        "Essa não foi sua melhor tentativa de tentação.",
+        "Tente de novo quando suas palavras estiverem tão firmes quanto seus sentimentos."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Isso ainda atravessa minha armadura.",
+        "Você diz isso como se soubesse exatamente onde minha guarda está mais fraca.",
+        "Já enfrentei monstros com menos impacto do que esse olhar.",
+        "Continue assim e posso esquecer que estávamos tendo uma conversa.",
+        "Você ainda faz meu coração agir como se nunca tivesse visto perigo antes."
+      ],
+      "fail": [
+        "Isso foi ousado. O resto precisa de trabalho.",
+        "Eu te amo, mas essa abordagem precisa de um plano melhor.",
+        "Você correu para dentro de novo. Muito heroico. Muito bagunçado.",
+        "Esse não foi seu melhor movimento.",
+        "Tente de novo quando sua coragem e seu tempo concordarem."
+      ]
+    }
+  }
+}

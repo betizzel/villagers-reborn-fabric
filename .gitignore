@@ -1,0 +1,9 @@
+.gradle/
+**/build/
+work/
+upstream/
+candidates/
+dist/
+*.log
+.idea/
+*.iml

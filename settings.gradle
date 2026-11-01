@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        maven { url = 'https://maven.fabricmc.net/' }
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'villagers-reborn-fabric'
+include 'villagers_reborn'
+project(':villagers_reborn').projectDir = file('ports/villagers_reborn')

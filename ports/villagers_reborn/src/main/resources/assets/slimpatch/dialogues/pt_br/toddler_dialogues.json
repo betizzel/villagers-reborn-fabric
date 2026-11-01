@@ -1,0 +1,532 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Oi, oi!",
+        "Olá!",
+        "Eu vi um inseto!",
+        "Você gosta de sapos?",
+        "Eu achei uma flor!"
+      ]
+    },
+    "friendly_player_child": {
+      "lines": [
+        "Oi, oi!",
+        "Veja isso!",
+        "Olhe para mim!",
+        "Eu achei uma flor!",
+        "Fiz uma careta engraçada!"
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Você é legal.",
+        "Isso foi legal!",
+        "Legal!",
+        "Você é divertido.",
+        "Boas palavras!"
+      ],
+      "fail": [
+        "Eu não sei.",
+        "Agora não.",
+        "Talvez mais tarde.",
+        "Estou olhando os insetos.",
+        "Esqueci o que dizer."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Hehe!",
+        "Isso foi engraçado!",
+        "De novo!",
+        "Você é bobo.",
+        "Meu rosto riu!"
+      ],
+      "fail": [
+        "Não entendi.",
+        "Isso foi uma piada?",
+        "Minha risada se perdeu.",
+        "Isso não teve graça.",
+        "Talvez tente de novo?"
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Você está fingindo estar ranzinza!",
+        "Essa foi uma cara de bravo engraçada.",
+        "Você parece um zumbi minúsculo.",
+        "Você não mete muito medo.",
+        "Eu sei que você está brincando."
+      ],
+      "fail": [
+        "Isso não foi legal.",
+        "Por que você disse isso?",
+        "Não gosto disso.",
+        "Isso me deixou triste.",
+        "Pode ser legal?"
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "shy": {
+      "lines": [
+        "Ah... oi.",
+        "Oi.",
+        "Eu estava me escondendo.",
+        "Você me viu!",
+        "Estou apenas parado aqui."
+      ]
+    },
+    "shy_player_child": {
+      "lines": [
+        "Oi.",
+        "Eu estava esperando aqui.",
+        "Não deixei cair desta vez...",
+        "Lembrei do que você disse.",
+        "Estou dando passos minúsculos."
+      ]
+    }
+  },
+  "Friendly": {
+    "shy": {
+      "lines": [
+        "Ah... obrigado.",
+        "Isso foi legal.",
+        "Eu gostei disso.",
+        "Você é gentil.",
+        "Isso me fez sentir melhor."
+      ],
+      "fail": [
+        "Eu não sei.",
+        "Estou muito quieto agora.",
+        "Talvez mais tarde.",
+        "Esqueci minhas palavras.",
+        "Meu rosto está se escondendo."
+      ]
+    }
+  },
+  "Joke": {
+    "shy": {
+      "lines": [
+        "Hehe...",
+        "Isso foi engraçado.",
+        "Eu ri um pouco.",
+        "Isso foi bobo.",
+        "Quase dei uma risadinha."
+      ],
+      "fail": [
+        "Não entendi.",
+        "Isso foi engraçado?",
+        "Eu perdi.",
+        "Minha timidez voltou.",
+        "Talvez conte mais devagar?"
+      ]
+    }
+  },
+  "Mean": {
+    "shy": {
+      "lines": [
+        "Você está fazendo uma voz assustadora.",
+        "Eu sei que você está brincando... eu acho.",
+        "Essa foi uma cara de ranzinza falsa.",
+        "Você não é muito assustador.",
+        "Eu também posso ser assustador... bu."
+      ],
+      "fail": [
+        "Isso foi maldoso.",
+        "Por favor, não.",
+        "Não gosto disso.",
+        "Isso me deixou nervoso.",
+        "Podemos parar?"
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "grumpy": {
+      "lines": [
+        "Oi.",
+        "O quê?",
+        "Eu estava ocupado.",
+        "Meus pés estão cansados.",
+        "O sol está muito forte."
+      ]
+    },
+    "grumpy_player_child": {
+      "lines": [
+        "Oi.",
+        "Eu não fiz isso.",
+        "Já estava assim.",
+        "Não estou cansado.",
+        "Não preciso de ajuda."
+      ]
+    }
+  },
+  "Friendly": {
+    "grumpy": {
+      "lines": [
+        "Isso foi ok.",
+        "Certo, isso foi legal.",
+        "Acho que gostei disso.",
+        "Você não é irritante.",
+        "Isso foi melhor do que o esperado."
+      ],
+      "fail": [
+        "Não, obrigado.",
+        "Agora não.",
+        "Estou ocupado sendo ranzinza.",
+        "Não quero palavras gentis.",
+        "Isso não funcionou."
+      ]
+    }
+  },
+  "Joke": {
+    "grumpy": {
+      "lines": [
+        "Hmph.",
+        "Isso foi engraçado. Um pouco.",
+        "Eu não ri.",
+        "Ok, talvez eu tenha rido.",
+        "Não conte a ninguém que gostei disso."
+      ],
+      "fail": [
+        "Não.",
+        "Sem graça.",
+        "Isso foi estranho.",
+        "Meu rosto não riu.",
+        "Tente uma piada melhor."
+      ]
+    }
+  },
+  "Mean": {
+    "grumpy": {
+      "lines": [
+        "Finalmente, palavras ranzinzas.",
+        "Isso soou certo.",
+        "Você entendeu.",
+        "Ser ranzinza é fácil.",
+        "Esse foi um bom resmungo."
+      ],
+      "fail": [
+        "Isso foi apenas maldoso.",
+        "Você está fazendo errado.",
+        "Maldoso demais.",
+        "Não gosto desse tipo.",
+        "Isso não foi ranzinza. Isso foi ruim."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "mean": {
+      "lines": [
+        "O quê?",
+        "Oi. Acho.",
+        "Saia da frente, estou andando.",
+        "Estou ocupado sendo importante.",
+        "Não pise no meu lugar."
+      ]
+    },
+    "mean_player_child": {
+      "lines": [
+        "Oi.",
+        "Eu não fiz isso.",
+        "Eles começaram.",
+        "Eu estava sendo cuidadoso.",
+        "Ninguém viu nada."
+      ]
+    }
+  },
+  "Friendly": {
+    "mean": {
+      "lines": [
+        "Certo, isso foi legal.",
+        "Você não é terrível.",
+        "Isso foi ok, eu acho.",
+        "Talvez eu permita isso.",
+        "Não fique orgulhoso demais."
+      ],
+      "fail": [
+        "Não.",
+        "Legal demais.",
+        "Isso foi chato.",
+        "Tente mais.",
+        "Não quero conversa doce."
+      ]
+    }
+  },
+  "Joke": {
+    "mean": {
+      "lines": [
+        "Heh.",
+        "Isso foi engraçado.",
+        "Você pareceu bobo dizendo isso.",
+        "Ok, essa foi boa.",
+        "Estou rindo da piada. Na maior parte."
+      ],
+      "fail": [
+        "Não.",
+        "Piada ruim.",
+        "Isso não teve graça.",
+        "Meu rosto disse não.",
+        "Até um slime faria melhor."
+      ]
+    }
+  },
+  "Mean": {
+    "mean": {
+      "lines": [
+        "Ha! Essa foi boa.",
+        "Isso soou maldoso.",
+        "Eu gosto dessa.",
+        "Você está aprendendo.",
+        "Diga com mais expressão no rosto."
+      ],
+      "fail": [
+        "Isso foi fraco.",
+        "Não é maldoso o suficiente.",
+        "Isso foi apenas rude.",
+        "Tipo errado de maldade.",
+        "Eu consigo fazer melhor."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "brave": {
+      "lines": [
+        "Oi!",
+        "Não estou com medo.",
+        "Eu consigo pular bem longe.",
+        "Vi uma sombra e não corri.",
+        "Estou treinando para ser corajoso."
+      ]
+    },
+    "brave_player_child": {
+      "lines": [
+        "Oi!",
+        "Olhe para mim!",
+        "Não fiquei com medo.",
+        "Quase lutei com uma folha.",
+        "Estou sendo muito corajoso hoje."
+      ]
+    }
+  },
+  "Friendly": {
+    "brave": {
+      "lines": [
+        "Obrigado!",
+        "Isso ajuda!",
+        "Pessoas corajosas gostam de palavras gentis.",
+        "Me sinto mais forte agora.",
+        "Foi bom ouvir isso!"
+      ],
+      "fail": [
+        "Agora não.",
+        "Estou treinando.",
+        "Não ouvi.",
+        "Diga mais alto!",
+        "Sou corajoso demais para ouvir."
+      ]
+    }
+  },
+  "Joke": {
+    "brave": {
+      "lines": [
+        "Haha!",
+        "Isso foi engraçado!",
+        "Uma piada corajosa!",
+        "Eu ri e não caí.",
+        "Conte outra!"
+      ],
+      "fail": [
+        "Não entendi.",
+        "Isso foi a piada?",
+        "Essa piada foi minúscula.",
+        "Não assustou uma risada para fora.",
+        "Tente uma piada mais forte."
+      ]
+    }
+  },
+  "Mean": {
+    "brave": {
+      "lines": [
+        "Eu aguento!",
+        "Isso não me assustou.",
+        "Boa tentativa!",
+        "Ainda estou de pé.",
+        "Você parece um saqueador minúsculo."
+      ],
+      "fail": [
+        "Isso foi maldoso demais.",
+        "Não diga isso.",
+        "Isso não foi corajoso.",
+        "Não gosto desse tipo.",
+        "Palavras maldosas não são fortes."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "greedy": {
+      "lines": [
+        "Oi!",
+        "Tem lanches?",
+        "Achei um tesouro.",
+        "Era brilhante.",
+        "Estou contando minhas coisas."
+      ]
+    },
+    "greedy_player_child": {
+      "lines": [
+        "Oi!",
+        "Olha, brilhante!",
+        "Guardei este.",
+        "Não perdi!",
+        "Isto é meu, ok?"
+      ]
+    }
+  },
+  "Friendly": {
+    "greedy": {
+      "lines": [
+        "Isso foi legal.",
+        "Vou guardar isso.",
+        "Boas palavras são brilhantes.",
+        "Isso pareceu valioso.",
+        "Você pode dizer mais."
+      ],
+      "fail": [
+        "Não, obrigado.",
+        "É só isso?",
+        "Eu queria algo brilhante.",
+        "Isso não foi um tesouro.",
+        "Talvez traga lanches."
+      ]
+    }
+  },
+  "Joke": {
+    "greedy": {
+      "lines": [
+        "Hehe!",
+        "Isso foi engraçado.",
+        "Essa piada é minha agora.",
+        "Eu trocaria algo por essa piada.",
+        "Vale uma pedra brilhante."
+      ],
+      "fail": [
+        "Não.",
+        "Mau negócio.",
+        "Essa piada estava vazia.",
+        "Quero uma melhor.",
+        "Não vale uma pedrinha."
+      ]
+    }
+  },
+  "Mean": {
+    "greedy": {
+      "lines": [
+        "Isso foi sorrateiro.",
+        "Boa voz de negociação.",
+        "Você parece um comerciante.",
+        "Isso teve um preço.",
+        "Vou permitir."
+      ],
+      "fail": [
+        "Maldoso demais.",
+        "Mau negócio.",
+        "Sem troca.",
+        "Isso não era brilhante.",
+        "Não gosto desse preço."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "wise": {
+      "lines": [
+        "Oi!",
+        "Eu estava pensando.",
+        "Pedras são muito velhas.",
+        "O céu está grande hoje.",
+        "Às vezes eu pisco devagar."
+      ]
+    },
+    "wise_player_child": {
+      "lines": [
+        "Oi!",
+        "Pensei sobre isso.",
+        "Fiz uma boa escolha.",
+        "Esperei e nada explodiu.",
+        "Eu sei das coisas agora."
+      ]
+    }
+  },
+  "Friendly": {
+    "wise": {
+      "lines": [
+        "Isso foi gentil.",
+        "Palavras gentis são boas.",
+        "Isso faz sentido.",
+        "Vou pensar sobre isso.",
+        "Você disse uma coisa boa."
+      ],
+      "fail": [
+        "Eu não sei.",
+        "Meus pensamentos estão dormindo.",
+        "Talvez mais tarde.",
+        "Foram palavras demais.",
+        "Esqueci a parte sábia."
+      ]
+    }
+  },
+  "Joke": {
+    "wise": {
+      "lines": [
+        "Hehe.",
+        "Isso foi engraçado.",
+        "Uma piada sábia.",
+        "Meu cérebro riu.",
+        "Eu entendo. Na maior parte."
+      ],
+      "fail": [
+        "Não entendi.",
+        "Isso foi a piada?",
+        "Meu cérebro caiu.",
+        "Isso não foi sábio.",
+        "Talvez a piada esteja se escondendo."
+      ]
+    }
+  },
+  "Mean": {
+    "wise": {
+      "lines": [
+        "Isso foi uma sabedoria ranzinza.",
+        "Vejo sua ideia de raiva.",
+        "Você parece um ancião minúsculo.",
+        "Isso foi quase sábio.",
+        "Vou permitir o resmungo."
+      ],
+      "fail": [
+        "Isso não foi gentil.",
+        "Palavras maldosas são pesadas.",
+        "Não gosto disso.",
+        "Isso foi uma sabedoria ruim.",
+        "Por favor, use pensamentos mais gentis."
+      ]
+    }
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Eh.",
+        "¡Hola!",
+        "¿Qué tal?",
+        "Antes he oído un ruido raro.",
+        "No estoy haciendo nada importante."
+      ]
+    },
+    "friendly_player_child": {
+      "lines": [
+        "Eh.",
+        "Hola.",
+        "Me he acordado de lo que dijiste.",
+        "No he hecho ninguna tontería.",
+        "Bueno... nada demasiado estúpido."
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Eso ha estado bastante bien.",
+        "No está mal hablar contigo.",
+        "Sí, tiene sentido.",
+        "Supongo que tiene lógica.",
+        "Vale, eso ha molado un poco."
+      ],
+      "fail": [
+        "No termino de entenderlo.",
+        "Quizá luego.",
+        "No estaba escuchando.",
+        "¿Qué se suponía que significaba eso?",
+        "Ahora mismo no me apetece mucho."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Vale, eso ha tenido gracia.",
+        "Ha sido una tontería. Me ha gustado.",
+        "Odio haberme reído.",
+        "Ese me lo quedo.",
+        "Ese casi consigue hacerme reír."
+      ],
+      "fail": [
+        "No lo entiendo.",
+        "¿Ese era el chiste?",
+        "Eso ha sido raro.",
+        "A ese chiste le hacía falta ayuda.",
+        "Quizá deberías dejar de contar ese."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Buen intento.",
+        "Te estás esforzando demasiado.",
+        "Eso casi ha sonado cruel.",
+        "He oído cosas peores de los zombis.",
+        "No das mucho miedo."
+      ],
+      "fail": [
+        "Eso no ha estado bien.",
+        "No digas eso.",
+        "Eso solo ha sido una falta de respeto.",
+        "Eso no me gusta.",
+        "Prueba a no ser cruel por una vez."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "shy": {
+      "lines": [
+        "Hola.",
+        "Oh. Hola.",
+        "Ah, hola.",
+        "Solo estaba pensando.",
+        "No me estoy escondiendo. Más o menos."
+      ]
+    },
+    "shy_player_child": {
+      "lines": [
+        "Eh.",
+        "Hola.",
+        "Creo que lo he manejado bien.",
+        "No he hecho que fuera raro.",
+        "No te rías, ¿vale?"
+      ]
+    }
+  },
+  "Friendly": {
+    "shy": {
+      "lines": [
+        "Gracias.",
+        "Eso ha estado bien.",
+        "Te lo agradezco.",
+        "Es fácil hablar contigo.",
+        "Eso me ha ayudado de verdad."
+      ],
+      "fail": [
+        "No sé qué decir.",
+        "Quizá luego.",
+        "Me he puesto raro.",
+        "Se me han ido las palabras.",
+        "Todavía no me apetece hablar."
+      ]
+    }
+  },
+  "Joke": {
+    "shy": {
+      "lines": [
+        "Je.",
+        "Vale, eso ha tenido gracia.",
+        "Me he reído. Un poco.",
+        "Ha sido una tontería. Me ha gustado.",
+        "Casi parecía normal mientras me reía."
+      ],
+      "fail": [
+        "No lo entiendo.",
+        "¿Ese era el chiste?",
+        "No lo he pillado.",
+        "Eso me ha hecho sentir algo de vergüenza.",
+        "Quizá puedas probar con ese más tarde."
+      ]
+    }
+  },
+  "Mean": {
+    "shy": {
+      "lines": [
+        "Estás intentando dar miedo.",
+        "Sé que estás de broma.",
+        "Eso casi ha dado miedo.",
+        "No tienes tanta maldad como crees.",
+        "Se nota que estás fingiendo."
+      ],
+      "fail": [
+        "Eso no ha estado bien.",
+        "Por favor, no digas eso.",
+        "Eso no me gusta.",
+        "Ahora todo se ha vuelto incómodo.",
+        "¿Podemos no hacer eso?"
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "grumpy": {
+      "lines": [
+        "Eh.",
+        "¿Y ahora qué?",
+        "Estaba disfrutando del silencio.",
+        "Hoy todo hace demasiado ruido.",
+        "Estoy de mal humor. Es bastante obvio."
+      ]
+    },
+    "grumpy_player_child": {
+      "lines": [
+        "Eh.",
+        "No he roto nada.",
+        "Probablemente.",
+        "Sé lo que hago.",
+        "Más o menos."
+      ]
+    }
+  },
+  "Friendly": {
+    "grumpy": {
+      "lines": [
+        "Vale, eso ha estado bien.",
+        "Eso me ha ayudado de verdad.",
+        "Molestas menos que la mayoría.",
+        "No hagas que admita que ha funcionado.",
+        "Eso casi ha sido reconfortante. Qué raro."
+      ],
+      "fail": [
+        "No, gracias.",
+        "Ahora no.",
+        "Eso no ha ayudado.",
+        "Demasiada alegría. Sospechoso.",
+        "Hoy no pienso aceptar amabilidad."
+      ]
+    }
+  },
+  "Joke": {
+    "grumpy": {
+      "lines": [
+        "Ja.",
+        "Ha sido una tontería. Buena.",
+        "Odio haberme reído.",
+        "Vale, ese me ha pillado.",
+        "No le cuentes a nadie que he sonreído."
+      ],
+      "fail": [
+        "No.",
+        "No tiene gracia.",
+        "Ese chiste necesita una reparación.",
+        "He oído cosas mejores de una puerta.",
+        "Por favor, deja de contar ese chiste."
+      ]
+    }
+  },
+  "Mean": {
+    "grumpy": {
+      "lines": [
+        "Por fin un poco de sinceridad.",
+        "Esa es la actitud.",
+        "Quejarse un poco nunca hace daño.",
+        "Empiezas a pillarle el truco.",
+        "Eso ha sido realmente molesto."
+      ],
+      "fail": [
+        "Eso solo ha sido una falta de respeto.",
+        "Ese no es el tipo de crueldad que buscaba.",
+        "No te pases.",
+        "Hasta yo tengo límites.",
+        "Eso ha sonado peor de lo que crees."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "mean": {
+      "lines": [
+        "¿Qué?",
+        "Oh, genial.",
+        "¿Necesitas algo?",
+        "Estaba sin hacer absolutamente nada.",
+        "Intenta que esto no sea aburrido."
+      ]
+    },
+    "mean_player_child": {
+      "lines": [
+        "Eh.",
+        "Yo no he empezado nada.",
+        "Ya estaba así cuando llegué.",
+        "Lo tenía bajo control.",
+        "No hace falta que nadie se entere."
+      ]
+    }
+  },
+  "Friendly": {
+    "mean": {
+      "lines": [
+        "Vale, eso ha estado bastante bien.",
+        "No eres completamente terrible.",
+        "Eso casi ha sonado inteligente.",
+        "Te lo permitiré.",
+        "No te acostumbres a que te dé la razón."
+      ],
+      "fail": [
+        "No, gracias.",
+        "Demasiado amable. Qué raro.",
+        "Eso ha sido aburrido.",
+        "Prueba a decir algo útil.",
+        "No me impresiona."
+      ]
+    }
+  },
+  "Joke": {
+    "mean": {
+      "lines": [
+        "Je.",
+        "Vale, ese ha sido bueno.",
+        "Ha sido una tontería. Mis respetos.",
+        "Odio que haya funcionado.",
+        "Me estoy riendo un poco de ti."
+      ],
+      "fail": [
+        "No.",
+        "Mal chiste.",
+        "Eso ha sido doloroso.",
+        "Ese chiste se ha rendido a mitad de camino.",
+        "He oído cosas mejores de un aldeano atrapado."
+      ]
+    }
+  },
+  "Mean": {
+    "mean": {
+      "lines": [
+        "Eso sí que tenía fuerza.",
+        "No ha estado mal.",
+        "Vas aprendiendo.",
+        "Eso casi ha sido impresionante.",
+        "Dilo con más seguridad."
+      ],
+      "fail": [
+        "Flojo.",
+        "Eso solo ha sido una falta de respeto.",
+        "Ese no es el tipo de crueldad correcto.",
+        "Podría hacerlo mejor medio dormido.",
+        "Vuelve a intentarlo cuando tengas algo que decir."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "brave": {
+      "lines": [
+        "¡Eh!",
+        "Estoy entrenando.",
+        "Hoy no me ha asustado nada.",
+        "Bueno, casi nada.",
+        "He oído un ruido y he actuado con normalidad."
+      ]
+    },
+    "brave_player_child": {
+      "lines": [
+        "¡Eh!",
+        "Lo tenía bajo control.",
+        "No he entrado en pánico.",
+        "Vale, quizá un poco.",
+        "Creo que he parecido bastante valiente."
+      ]
+    }
+  },
+  "Friendly": {
+    "brave": {
+      "lines": [
+        "Gracias.",
+        "Eso ayuda.",
+        "Eso ha estado muy bien.",
+        "Necesitaba escuchar eso.",
+        "Se te da bien animar a la gente."
+      ],
+      "fail": [
+        "Ahora no.",
+        "Estoy intentando concentrarme.",
+        "No he oído eso.",
+        "Eso no ha sido precisamente inspirador.",
+        "Guárdalo para el discurso de la victoria."
+      ]
+    }
+  },
+  "Joke": {
+    "brave": {
+      "lines": [
+        "¡Ja, ja!",
+        "Vale, ese ha sido bueno.",
+        "Ese chiste tenía agallas.",
+        "Me he reído con seguridad.",
+        "Usaré ese después de mi próximo momento heroico."
+      ],
+      "fail": [
+        "No lo entiendo.",
+        "¿Ese era el chiste?",
+        "Ese chiste se ha retirado.",
+        "Necesitaba un momento mejor.",
+        "Prueba con uno que tenga más peligro."
+      ]
+    }
+  },
+  "Mean": {
+    "brave": {
+      "lines": [
+        "Buen intento.",
+        "Puedo soportarlo.",
+        "Eso no me ha hecho temblar.",
+        "Necesitarás algo mejor que eso.",
+        "Sigo aquí."
+      ],
+      "fail": [
+        "Eso solo ha sido una falta de respeto.",
+        "Eso no ha sido valiente.",
+        "No digas eso.",
+        "Ser cruel no es tener valor.",
+        "Ese no es el tipo de fuerza que importa."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "greedy": {
+      "lines": [
+        "Eh.",
+        "¿Tienes algo bueno?",
+        "Estoy preparando un trato.",
+        "Todo tiene un precio.",
+        "No digo que sea valioso. Todavía."
+      ]
+    },
+    "greedy_player_child": {
+      "lines": [
+        "Eh.",
+        "Me he quedado con lo bueno.",
+        "No lo he intercambiado todo.",
+        "He hecho un trato. Uno pequeño.",
+        "Relájate, sé lo que hago."
+      ]
+    }
+  },
+  "Friendly": {
+    "greedy": {
+      "lines": [
+        "Ha merecido la pena escuchar eso.",
+        "No está mal. Tiene buen valor.",
+        "Me quedo con eso.",
+        "Eso ha sonado como un trato justo.",
+        "Estás haciendo una oferta bastante buena."
+      ],
+      "fail": [
+        "No, gracias.",
+        "Mala oferta.",
+        "Eso no me ha convencido.",
+        "Necesita tener más valor.",
+        "No te lo compro."
+      ]
+    }
+  },
+  "Joke": {
+    "greedy": {
+      "lines": [
+        "Ja.",
+        "Vale, eso ha dado resultado.",
+        "Ese chiste tenía valor.",
+        "Intercambiaría algo por ese.",
+        "Vale, ha merecido una risa."
+      ],
+      "fail": [
+        "No.",
+        "Mal trato.",
+        "Ese chiste ha perdido valor muy rápido.",
+        "Quiero que me devuelvas mi tiempo.",
+        "No vale ni media esmeralda."
+      ]
+    }
+  },
+  "Mean": {
+    "greedy": {
+      "lines": [
+        "Directo. Útil.",
+        "Eso tenía valor.",
+        "Buena cara para negociar.",
+        "Sabes negociar con dureza.",
+        "Respeto ese esfuerzo."
+      ],
+      "fail": [
+        "Demasiado.",
+        "Mal trato.",
+        "Eso solo ha sido una falta de respeto.",
+        "Ese no es el tipo de presión correcto.",
+        "Eso te ha hecho perder puntos."
+      ]
+    }
+  }
+}
+{
+  "Intro": {
+    "wise": {
+      "lines": [
+        "Eh.",
+        "Hola.",
+        "Estaba pensando.",
+        "Hoy había algo que no encajaba.",
+        "Los días tranquilos son sospechosos."
+      ]
+    },
+    "wise_player_child": {
+      "lines": [
+        "Eh.",
+        "Lo he pensado bien.",
+        "He elegido la opción más prudente.",
+        "Me he dado cuenta antes de que empeorara.",
+        "Lo he manejado de la forma más inteligente."
+      ]
+    }
+  },
+  "Friendly": {
+    "wise": {
+      "lines": [
+        "Eso ha sido amable.",
+        "Eso tiene sentido.",
+        "Buen argumento.",
+        "Pensaré en eso.",
+        "Lo has explicado bien."
+      ],
+      "fail": [
+        "No lo entiendo.",
+        "Quizá luego.",
+        "Eso no ha funcionado.",
+        "He perdido el sentido de lo que decías.",
+        "No es el momento adecuado."
+      ]
+    }
+  },
+  "Joke": {
+    "wise": {
+      "lines": [
+        "Je.",
+        "Vale, eso ha tenido gracia.",
+        "Ese chiste tenía buen ritmo.",
+        "La sabiduría sobrevive incluso a los malos chistes.",
+        "Me he reído. De forma razonable."
+      ],
+      "fail": [
+        "No lo entiendo.",
+        "¿Ese era el chiste?",
+        "Ese no ha dado en el blanco.",
+        "El momento te ha fallado.",
+        "Quizá sea mejor dejar descansar ese chiste."
+      ]
+    }
+  },
+  "Mean": {
+    "wise": {
+      "lines": [
+        "Buen argumento.",
+        "Entiendo por dónde vas.",
+        "Había algo de verdad en eso.",
+        "Ha sido muy directo, pero no estaba mal.",
+        "Cuidado. Eso casi ha tenido sentido."
+      ],
+      "fail": [
+        "Eso solo ha sido una falta de respeto.",
+        "Eso no ha sido sabiduría.",
+        "Ese no es el tipo correcto de sinceridad.",
+        "Puedes hablar claro sin decir eso.",
+        "Eso dice más de ti que de mí."
+      ]
+    }
+  }
+}

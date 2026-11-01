@@ -1,0 +1,596 @@
+{
+  "Intro": {
+    "friendly": {
+      "lines": [
+        "Eu gosto da facilidade que sinto ao estar perto de você.",
+        "Você tem um jeito de fazer até os pequenos momentos parecerem especiais.",
+        "Eu estava tentando agir normalmente, mas você torna isso difícil.",
+        "Eu gosto disso. Conversar com você, estar perto de você... tudo isso.",
+        "Tem algo em você que me faz sorrir antes mesmo de você dizer qualquer coisa."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Eu fico nervoso perto de você, mas acho que sentiria falta dessa sensação se ela parasse.",
+        "Você faz o silêncio parecer menos constrangedor. Isso é novo para mim.",
+        "Eu continuo tentando agir normalmente perto de você. Não está indo muito bem.",
+        "Eu gosto de estar perto de você. Só sou péssimo em parecer calmo quanto a isso.",
+        "Toda vez que você olha para mim, eu esqueço sobre o que eu estava fingindo pensar."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Continue olhando para mim desse jeito e eu vou esquecer o que estava fazendo.",
+        "Eu gosto disso. Você, eu, este pequeno momento antes de um de nós dizer algo tolo.",
+        "Eu estava me comportando perfeitamente bem até você chegar perto.",
+        "Há algo muito distrativo em você.",
+        "Se você está tentando fazer com que eu pense em você o dia todo, está funcionando."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Eu continuo dizendo a mim mesmo que este é um mau investimento. Estou começando a achar que estou errado.",
+        "Você está se tornando uma despesa muito distrativa no meu dia.",
+        "Eu estava contando os lucros. Então comecei a pensar em você. Terrível para os negócios.",
+        "Eu gosto de ter você por perto. Não me faça colocar um preço nisso.",
+        "Algumas coisas valem mais que esmeraldas. De forma irritante, você pode ser uma delas."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Você distrai muito. Espero que esteja orgulhoso de si mesmo.",
+        "Eu estava tendo um dia perfeitamente normal até você complicá-lo.",
+        "Não fique tão satisfeito. Só estou um pouco feliz em ver você.",
+        "Você torna difícil continuar irritado. Isso é irritante.",
+        "Eu ainda não sei o que fazer com você. Esse pode ser o problema."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Você ainda é fácil demais de se notar.",
+        "Eu estava indo bem antes de você começar a ser interessante.",
+        "Não fique tão convencido. Eu só gosto de você em uma medida razoável.",
+        "Você torna muito difícil fingir que não estou impressionado.",
+        "Não decidi se você é um problema ou entretenimento. Talvez os dois."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Alguns silêncios dizem mais quando você está por perto.",
+        "Aprendi a não ignorar o que sinto perto de você.",
+        "Você faz a paciência parecer menos com espera e mais com desejo.",
+        "Há uma atração silenciosa entre nós. Acho que ambos sabemos disso.",
+        "Eu estava tentando pensar claramente. Então você tornou isso difícil."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Eu consigo encarar muitas coisas sem piscar. Você não é uma delas.",
+        "Estar perto de você me faz sentir corajoso de uma maneira completamente diferente.",
+        "Eu gosto dessa sensação. É um pouco perigoso, mas eu gosto.",
+        "Você faz os momentos de calma parecerem que algo está prestes a acontecer.",
+        "Já entrei em perigo com menos dificuldade do que tenho ao me aproximar de você."
+      ]
+    }
+  },
+  "Friendly": {
+    "friendly": {
+      "lines": [
+        "Quando você fala comigo assim, é muito difícil não ficar apegado.",
+        "Isso foi doce. Você é muito bom em me fazer sentir desejado.",
+        "Eu gosto quando você é gentil comigo. Fica comigo por mais tempo do que você imagina.",
+        "Você continua encontrando pequenas maneiras de me fazer gostar mais de você.",
+        "Isso foi um pouco injusto. Agora vou ficar pensando nisso por eras."
+      ],
+      "fail": [
+        "Isso foi quase doce. Acho que as palavras se perderam um pouco.",
+        "Eu sei que você tentou ser gentil, mas saiu de um jeito estranho.",
+        "Eu queria que isso soasse romântico. Não chegou bem lá.",
+        "Isso foi legal na teoria. Muito confuso na prática.",
+        "Você tem sorte de eu gostar do esforço, porque a execução precisa de ajuda."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Quando você é doce comigo, não sei onde colocar todos esses sentimentos.",
+        "Isso foi gentil. Agora tenho que fingir que não me afetou tanto.",
+        "Você me faz sentir seguro, e isso é algo muito perigoso para se acostumar.",
+        "Eu gosto de como você é gentil comigo. Isso torna mais difícil ficar quieto.",
+        "Isso me deixou feliz. Estou tentando não tornar óbvio."
+      ],
+      "fail": [
+        "Acho que você quis ser gentil, mas meus nervos não entenderam.",
+        "Isso foi quase doce. Eu só me perdi no meio do caminho.",
+        "Eu queria ter reagido melhor, mas meu cérebro parou de ajudar.",
+        "Isso saiu um pouco estranho. Ainda estou tentando decidir o quão estranho.",
+        "Eu sei que você tentou. Acho que isso conta como algo."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Quando você é doce comigo, é honestamente injusto.",
+        "Eu gosto desse seu lado. Torna muito difícil desviar o olhar.",
+        "Você diz coisas assim e espera que eu aja normalmente?",
+        "Isso foi gentil. Eu não sabia que precisava disso de você.",
+        "Você faz a gentileza parecer um pouco perigosa."
+      ],
+      "fail": [
+        "Isso foi quase doce. Quase.",
+        "Eu sei o que você tentou fazer, mas você me perdeu na metade.",
+        "Você tem sorte de eu gostar do esforço.",
+        "Isso soou melhor na sua cabeça, não foi?",
+        "Eu queria que tivesse funcionado mais do que funcionou."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Isso foi doce. Suspeitosamente doce.",
+        "Continue sendo gentil comigo e eu posso começar a dar descontos.",
+        "Eu gosto quando você fala assim. Parece... caro, de alguma forma.",
+        "Isso me fez sentir valorizado. Geralmente cobro extra por isso.",
+        "Você é ruim para a minha ganância. Digo isso como um elogio."
+      ],
+      "fail": [
+        "Isso foi gentil, mas não tenho certeza se valeu muito.",
+        "Vejo o que você tentou fazer. A execução foi questionável.",
+        "Isso quase soou valioso.",
+        "Agradeço o esforço. Não avaliaria muito bem, mas agradeço.",
+        "Você tentou ser doce. Vou te dar um crédito parcial."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi legal. Não faça disso um grande negócio.",
+        "Você sendo doce de novo. Está ficando mais difícil reclamar.",
+        "Eu odeio o quanto isso funcionou.",
+        "Certo. Isso me fez sentir melhor.",
+        "Você sempre sabe exatamente como arruinar meu mau humor."
+      ],
+      "fail": [
+        "Isso deveria ser doce, não deveria?",
+        "Eu sei que você tentou. Estou tentando não levar isso em consideração contra você.",
+        "Isso foi legal de uma maneira muito desajeitada.",
+        "Você quase fez um ponto. Quase.",
+        "Agradeço o esforço. Reservo-me o direito de reclamar disso."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso foi doce. Inesperadamente útil da sua parte.",
+        "Suponho que você possa ser charmoso quando para de tentar tanto.",
+        "Isso quase me fez dizer algo legal. Perigoso.",
+        "Você está ficando melhor em saber do que eu gosto.",
+        "Isso foi mais suave do que eu esperava. Eu não odiei."
+      ],
+      "fail": [
+        "Isso deveria ser doce? Escolha interessante.",
+        "Vejo a ideia. O resultado foi menos impressionante.",
+        "Tente não soar tão inseguro da próxima vez.",
+        "Isso foi quase legal, se eu apertar os olhos emocionalmente.",
+        "Você tem sorte de eu estar de bom humor."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "A gentileza significa mais quando vem de alguém que sabe onde colocá-la.",
+        "Você tem um jeito gentil de me alcançar.",
+        "Isso foi simples e, de alguma forma, exatamente o suficiente.",
+        "Você é cuidadoso com meu coração. Eu noto isso.",
+        "Há conforto no modo como você fala comigo."
+      ],
+      "fail": [
+        "O sentimento estava lá, mas as palavras vagaram.",
+        "Acho que você teve boas intenções. Ter boas intenções nem sempre é o suficiente.",
+        "Isso chegou perto da gentileza, mas não tinha exatamente a forma dela.",
+        "Ouvi a intenção mais claramente do que a frase.",
+        "Você tentou alcançar algo terno e errou por pouco."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Isso atingiu um lugar mais suave do que eu esperava.",
+        "Você faz a gentileza parecer coragem.",
+        "Eu gosto quando você fala comigo assim. Faz-me querer ficar perto.",
+        "Isso foi gentil. Não estou acostumado a precisar de coisas gentis.",
+        "Você tem um jeito de me fazer baixar a guarda."
+      ],
+      "fail": [
+        "Eu sei que você teve boas intenções, mas essa falhou.",
+        "Isso soou como se estivesse tentando ser doce e se perdeu.",
+        "Agradeço a tentativa. A aterrissagem foi difícil.",
+        "Você mirou no meu coração e acertou minha confusão.",
+        "Isso quase funcionou. Quase."
+      ]
+    }
+  },
+  "Joke": {
+    "friendly": {
+      "lines": [
+        "Odeio que você tenha me feito rir disso.",
+        "Isso foi horrível. Por que estou sorrindo?",
+        "Você é ridículo e, de alguma forma, isso está funcionando para você.",
+        "Eu não deveria achar isso charmoso, mas aqui estamos.",
+        "Se seu plano era me fazer rir e esquecer o que eu estava dizendo, funcionou."
+      ],
+      "fail": [
+        "Essa piada caiu antes de chegar ao fim.",
+        "Eu gosto de você, mas não vou recompensar essa com uma risada.",
+        "Isso foi corajoso. Não engraçado, mas corajoso.",
+        "Acho que a piada ficou nervosa e fugiu.",
+        "Estou sorrindo por sua causa, não porque essa piada mereceu."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Isso foi tão estúpido. Eu gostei.",
+        "Ri antes que pudesse esconder. A culpa é sua.",
+        "Você torna muito difícil ficar silenciosamente misterioso.",
+        "Essa piada não deveria ter funcionado comigo, mas funcionou.",
+        "Estou sorrindo demais agora. Por favor, assuma a responsabilidade."
+      ],
+      "fail": [
+        "Acho que entrei em pânico antes de encontrar a parte engraçada.",
+        "Eu deveria ter rido ali? Eu queria ter rido.",
+        "Essa piada me deixou nervoso por causa da piada.",
+        "Eu gosto de você, mas não posso defender essa.",
+        "Talvez tente novamente quando ambos estivermos menos envergonhados."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Odeio que você tenha me feito rir disso.",
+        "Você é ridículo. Infelizmente, eu gosto do ridículo.",
+        "Isso não foi engraçado o suficiente para merecer esse sorriso, mas aqui estamos.",
+        "Continue me fazendo rir assim e eu posso acabar apegado.",
+        "Você é perigosamente charmoso quando para de tentar tanto."
+      ],
+      "fail": [
+        "Essa piada precisava ser salva, e não tenho certeza se nem eu consigo salvá-la.",
+        "Eu gosto de você, mas não vou fingir que isso foi engraçado.",
+        "Isso foi um desastre ousado.",
+        "Você quase me pegou. Então a piada aconteceu.",
+        "Estou sorrindo por sua causa, não por causa da piada."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Essa risada foi de graça. Não se acostume.",
+        "Isso foi estúpido. Eu gostei contra o meu bom senso.",
+        "Você tem sorte de o charme não ter preço de mercado.",
+        "Eu deveria cobrar por me fazer rir tão facilmente.",
+        "Essa piada valia pelo menos uma esmeralda. Talvez meia."
+      ],
+      "fail": [
+        "Quero um reembolso por essa piada.",
+        "Isso não valeu o tempo que levei para ouvir.",
+        "Ouvi piadas melhores de aldeões vendendo beterraba.",
+        "Essa piada perdeu valor muito rapidamente.",
+        "Eu não trocaria um graveto por esse final."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi estúpido. Eu ri. Estou furioso.",
+        "Não conte a ninguém que achei isso engraçado.",
+        "Você tem sorte de eu gostar de piadas terríveis mais do que admito.",
+        "Isso foi horrível. Faça de novo mais tarde.",
+        "Odeio gostar do seu absurdo."
+      ],
+      "fail": [
+        "Não. Absolutamente não.",
+        "Essa piada deveria pedir desculpas.",
+        "Ouvi piadas melhores de uma porta quebrada.",
+        "Eu não estou rindo, e você não pode me forçar.",
+        "Isso foi um crime contra a conversa."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Isso foi estúpido. Infelizmente, funcionou.",
+        "Eu ri. Não se acostume.",
+        "Você é muito mais engraçado quando não está tentando ser.",
+        "Essa piada foi um desastre. Um desastre charmoso, de alguma forma.",
+        "Odeio ter gostado disso."
+      ],
+      "fail": [
+        "Essa piada merecia silêncio.",
+        "Ouvi coisas melhores de um aldeão preso em um poço.",
+        "Não me faça explicar por que isso falhou.",
+        "Isso foi constrangedor para ambos, principalmente para você.",
+        "Você quase me fez sentir falta do silêncio constrangedor."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Isso foi tolo. Sabiamente tolo, de alguma forma.",
+        "Eu deveria ter visto isso vindo. Fico feliz por não ter visto.",
+        "Você me pegou desprevenido. Isso não é fácil.",
+        "Uma boa risada raramente é desperdiçada.",
+        "Você faz a seriedade parecer menos necessária."
+      ],
+      "fail": [
+        "Essa piada tinha uma lição nela. Infelizmente, a lição foi paciência.",
+        "Vejo o caminho que a piada tentou tomar. Não chegou lá.",
+        "Alguns pensamentos são melhores como pensamentos.",
+        "Agradeço a tentativa mais do que o resultado.",
+        "Esse não foi seu momento mais forte, mas foi memorável."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Isso foi ridículo. Eu gostei mais do que deveria.",
+        "Você me pegou desprevenido. Isso não acontece sempre.",
+        "Eu estava tentando parecer sério. Você arruinou isso.",
+        "Essa risada foi culpa sua.",
+        "Você é perigoso quando está sendo estúpido."
+      ],
+      "fail": [
+        "Essa piada lutou bravamente e perdeu.",
+        "Respeito a coragem. Não a piada.",
+        "Isso foi uma falha ousada.",
+        "Você investiu nesse final sem nenhum plano.",
+        "Já vi creepers com melhor timing."
+      ]
+    }
+  },
+  "Mean": {
+    "friendly": {
+      "lines": [
+        "Isso foi um pouco agressivo, mas conheço você bem o suficiente para ouvir a provocação.",
+        "Você tem sorte que seu rosto torna difícil continuar irritado.",
+        "Esse tom me incomodaria mais se eu não soubesse que você se importa.",
+        "Uma pequena provocação é aceitável. Só não fique orgulhoso demais.",
+        "Você pode ser difícil, mas suponho que gosto disso mais do que deveria."
+      ],
+      "fail": [
+        "Isso não pareceu uma provocação.",
+        "Por favor, não use esse tom comigo. Não assim.",
+        "Eu sei que você pode ser mais gentil que isso.",
+        "Isso doeu mais porque veio de você.",
+        "Eu pensei que já tínhamos passado da fase de falar um com o outro desse jeito."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Isso foi agressivo, mas acho que você estava provocando. Espero que estivesse provocando.",
+        "Eu consigo lidar com uma pequena mordida vinda de você. Uma pequena.",
+        "Isso me deixou nervoso, mas não o suficiente para fugir.",
+        "Você tem sorte de eu saber que existe algo mais suave sob esse tom.",
+        "Isso foi ousado. Estou fingindo que não gostei."
+      ],
+      "fail": [
+        "Isso não pareceu uma provocação.",
+        "Por favor, não me faça sentir pequeno. Você não.",
+        "Eu posso ficar quieto sem precisar ser ferido.",
+        "Isso me fez querer desaparecer por um minuto.",
+        "Pensei que você seria mais cuidadoso comigo."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Essa sua boca vai te meter em problemas um dia.",
+        "Você está brincando com fogo. Espero que saiba disso.",
+        "Eu deveria estar irritado. Não estou. Esse é o problema.",
+        "Você realmente gosta de me testar, não é?",
+        "Isso foi agressivo. Eu gosto de agressivo, em pequenas doses."
+      ],
+      "fail": [
+        "Isso não foi uma provocação. Isso foi apenas mau.",
+        "Não confunda química com permissão para me ferir.",
+        "Eu gosto de uma pequena mordida, não de crueldade.",
+        "Isso cruzou uma linha.",
+        "Pensei que você soubesse a diferença entre brincalhão e doloroso."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Isso foi ousado. Respeito um movimento arriscado.",
+        "Uma pequena mordida mantém as coisas interessantes.",
+        "Você negocia duro. Eu gosto disso.",
+        "Isso foi agressivo, mas não sem valor.",
+        "Cuidado. Posso começar a gostar dessa negociação."
+      ],
+      "fail": [
+        "Isso não foi inteligente. Isso foi apenas barato.",
+        "Não confunda minha paciência com uma barganha.",
+        "Se você vai ser duro, pelo menos que valha a pena ouvir.",
+        "Isso custou a você mais do que pensa.",
+        "Não gosto de ser tratado como algo que você pode pechinchar."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Bom. Finalmente, alguém com um pouco de ousadia.",
+        "Eu posso trabalhar com isso.",
+        "Isso foi duro. Respeito a honestidade.",
+        "Você está ficando ousado comigo. Interessante.",
+        "Uma pequena mordida combina com você."
+      ],
+      "fail": [
+        "Não abuse da sorte.",
+        "Isso não foi uma provocação. Isso foi você sendo tolo.",
+        "Eu gosto de atitude. Não gosto de desrespeito.",
+        "Tente de novo e veja até onde isso te leva.",
+        "Você errou a linha entre ser agressivo e cruel."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Aí está. Eu sabia que você tinha um pouco de mordida.",
+        "Bom. Eu estava preocupado que você estivesse ficando mole demais.",
+        "Isso foi ousado. Eu respeito o ousado.",
+        "Você está aprendendo como me acompanhar.",
+        "Agressivo o suficiente para ser interessante. Não agressivo o suficiente para vencer."
+      ],
+      "fail": [
+        "Não. Isso não foi inteligente, apenas irritante.",
+        "Se você vai me desafiar, faça direito.",
+        "Isso errou o alvo e atingiu minha paciência.",
+        "Não confunda ser mau com ser interessante.",
+        "Tente de novo e eu posso realmente ficar irritado."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Palavras diretas ainda podem ser honestas, se usadas com cuidado.",
+        "Isso foi agressivo, mas não sem verdade.",
+        "Você está testando a borda entre honestidade e provocação.",
+        "Posso aceitar uma verdade difícil quando ela não é jogada de qualquer jeito.",
+        "Há algo interessante na maneira como você me desafia."
+      ],
+      "fail": [
+        "Isso não foi verdade. Isso foi impaciência vestindo roupas de verdade.",
+        "Você pode ser direto sem ser descuidado.",
+        "Isso cortou mais fundo do que precisava.",
+        "Se você quer ser ouvido, não fira primeiro.",
+        "Eu esperava mais sabedoria de alguém que deixei chegar tão perto."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Bom. Gosto de alguém que não tem medo de revidar.",
+        "Isso foi agressivo. Eu aguento agressividade.",
+        "Você tem fogo dentro de você. Eu notei.",
+        "Um pequeno desafio combina com você.",
+        "Isso quase soou como um desafio."
+      ],
+      "fail": [
+        "Isso não foi coragem. Isso foi descuido.",
+        "Não use a honestidade como desculpa para ser cruel.",
+        "Se você vai me desafiar, faça com respeito.",
+        "Isso atingiu mais forte do que precisava.",
+        "Eu deixei você se aproximar. Não me faça arrepender disso."
+      ]
+    }
+  },
+  "Flirt": {
+    "friendly": {
+      "lines": [
+        "Você não pode dizer coisas assim e esperar que eu mantenha a cara séria.",
+        "Isso foi suave. Estou irritado por ter funcionado.",
+        "Eu gosto de ouvir isso de você mais do que provavelmente deveria admitir.",
+        "Você está ficando muito bom em me fazer esquecer o que eu estava fazendo.",
+        "Se você estava tentando fazer meu coração fazer algo estúpido, parabéns."
+      ],
+      "fail": [
+        "Isso foi quase charmoso. Quase.",
+        "Eu gosto de você, mas essa frase precisa de socorro.",
+        "Você começou forte e depois abandonou completamente o plano.",
+        "Isso foi fofo de uma maneira muito bagunçada.",
+        "Tente de novo, mas dessa vez finja que sabe o que está fazendo."
+      ]
+    },
+    "shy": {
+      "lines": [
+        "Você não pode simplesmente dizer isso enquanto estou tentando parecer normal.",
+        "Eu gostei disso. Não vou dizer em voz alta.",
+        "Isso fez meus pensamentos tropeçarem uns nos outros.",
+        "Eu não estava pronto para isso, mas não estou reclamando.",
+        "Se eu desviar o olhar, é porque isso funcionou."
+      ],
+      "fail": [
+        "Isso foi demais de uma vez. Meu cérebro partiu.",
+        "Eu gosto de você, mas por favor, não me ataque com romance assim.",
+        "Essa frase chegou antes que eu estivesse emocionalmente preparado.",
+        "Acho que você nos deixou desconfortáveis daquela vez.",
+        "Tente de novo, mas talvez me dê um aviso antes."
+      ]
+    },
+    "romantic": {
+      "lines": [
+        "Diga isso de novo. Devagar.",
+        "Agora isso valeu a pena ouvir.",
+        "Você está ficando muito bom em me fazer esquecer de mim mesmo.",
+        "Isso foi suave. Irritantemente suave.",
+        "Se esse era seu plano, funcionou."
+      ],
+      "fail": [
+        "Isso foi quase charmoso. Depois tropeçou em si mesmo.",
+        "Admiro a confiança. A frase não sobreviveu a ela.",
+        "Você apressou. Eu notei.",
+        "Tente de novo quando não estiver lutando contra seus próprios nervos.",
+        "Eu gosto de você demais para deixar você pensar que isso funcionou."
+      ]
+    },
+    "greedy": {
+      "lines": [
+        "Isso foi bom. Eu poderia ter pago para ouvir duas vezes.",
+        "Você está ficando perigosamente bom nisso.",
+        "Continue falando assim e eu posso esquecer de perguntar o que eu ganho com isso.",
+        "Eu gosto desse tom. Não faz sentido financeiro nenhum.",
+        "Essa te rendeu um olhar muito interessado."
+      ],
+      "fail": [
+        "Esse foi um investimento ruim de charme.",
+        "Vejo a tentativa. O lucro foi baixo.",
+        "Você quase me pegou. Então as palavras se envolveram.",
+        "Essa frase precisa de materiais melhores.",
+        "Eu gosto de você, então vou fingir que isso valeu alguma coisa."
+      ]
+    },
+    "grumpy": {
+      "lines": [
+        "Isso foi irritantemente eficaz.",
+        "Você está aproveitando isso demais.",
+        "Não sorria assim. Torna mais difícil argumentar.",
+        "Certo. Essa me pegou.",
+        "Você está muito satisfeito consigo mesmo, não está?"
+      ],
+      "fail": [
+        "Isso foi terrível. Quase sinto pena de você.",
+        "Não. Tente de novo quando sua dignidade retornar.",
+        "Eu gosto de você, mas não vou baixar tanto meus padrões.",
+        "Essa frase entrou mancando aqui e morreu.",
+        "Você tornou tudo estranho. Parabéns."
+      ]
+    },
+    "mean": {
+      "lines": [
+        "Nada mal. Você é quase perigoso quando tenta.",
+        "Isso foi melhor do que eu esperava. Irritante.",
+        "Você sabe como entrar debaixo da minha pele.",
+        "Eu não deveria gostar disso tanto quanto gosto.",
+        "Continue falando assim e eu posso começar a te levar a sério."
+      ],
+      "fail": [
+        "Isso foi doloroso de assistir.",
+        "Você tentou ser suave e de alguma forma tropeçou parado.",
+        "Eu gosto de confiança. Isso não foi confiança.",
+        "Você tem sorte de eu achar o esforço levemente atraente.",
+        "Essa frase precisa ser enterrada em algum lugar silencioso."
+      ]
+    },
+    "wise": {
+      "lines": [
+        "Isso não foi sutil. Eu não me importo.",
+        "Você sabe exatamente o que está fazendo, não sabe?",
+        "Já ouvi palavras mais doces. Poucas pareceram tão sinceras.",
+        "Você está tornando difícil manter a compostura.",
+        "Isso foi ousado o suficiente para ser honesto."
+      ],
+      "fail": [
+        "Isso foi quase charmoso. Depois virou uma lição de tempo.",
+        "Você apressou o sentimento antes que as palavras estivessem prontas.",
+        "Acho que seu coração moveu-se mais rápido do que sua língua.",
+        "Havia promessa nisso. Simplesmente se perdeu.",
+        "Tente de novo quando estiver falando comigo, não atuando para mim."
+      ]
+    },
+    "brave": {
+      "lines": [
+        "Isso foi ousado. Eu gosto de ousado.",
+        "Você diz isso como se soubesse exatamente o que faz comigo.",
+        "Eu estava pronto para muitas coisas. Não para isso.",
+        "Você está tornando muito difícil manter meu equilíbrio.",
+        "Essa passou pela minha armadura."
+      ],
+      "fail": [
+        "Isso foi corajoso. Terrível, mas corajoso.",
+        "Você entrou sem um plano de novo.",
+        "Eu gosto de confiança. Isso foi pânico usando um capacete.",
+        "Não é seu melhor movimento, mas respeito a tentativa.",
+        "Tente de novo quando sua coragem e suas palavras estiverem se falando."
+      ]
+    }
+  }
+}

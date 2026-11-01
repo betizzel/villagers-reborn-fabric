@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "slimpatch",
+  "version": "1.0.9b",
+  "name": "Villagers Reborn",
+  "description": "Replaces vanilla villagers with custom human-like player models.",
+  "authors": ["JaviC"],
+  "license": "All-Rights-Reserved",
+  "contact": { "sources": "https://github.com/Javieljefe/Villagers-Reborn" },
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.javic.slimpatch.SlimPatch"],
+    "client": ["com.javic.slimpatch.client.SlimPatchClient"],
+    "modmenu": ["com.javic.slimpatch.fabric.SlimPatchModMenu"]
+  },
+  "mixins": ["slimpatch.mixins.json", "slimpatch.events.mixins.json", "slimpatch.client.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "fabric-api": ">=0.92.6+1.20.1",
+    "porting_lib_entity": ">=2.3.13",
+    "minecraft": "1.20.1",
+    "java": ">=17"
+  },
+  "suggests": { "modmenu": ">=7.2.2" }
+}
